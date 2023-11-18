@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href="style.css">
+    <script src="advanced-search.js"></script>
+</head>
+<body>
+    <div class="search-wrapper">
+        <div class="options-wrapped">
+            <div class="options-row">
+                <div class="search-options color-options">
+                    <h3>Select colors</h3>
+                    <input type="checkbox" id="color-white" name="color-white" checked><label for="color-white" class="White">White</label><br>
+                    <input type="checkbox" id="color-purple" name="color-purple" checked><label for="color-purple" class="Purple">Purple</label><br>
+                    <input type="checkbox" id="color-blue" name="color-blue" checked><label for="color-blue" class="Blue">Blue</label><br>
+                    <input type="checkbox" id="color-green" name="color-green" checked><label for="color-green" class="Green">Green</label><br>
+                    <input type="checkbox" id="color-orange" name="color-orange" checked><label for="color-orange" class="Orange">Orange</label><br>
+                    <input type="checkbox" id="color-red" name="color-red" checked><label for="color-red" class="Red">Red</label><br>
+                </div>
+                <div class="search-options player-options">
+                    <h3>Player options</h3>
+                    <label for="player-count">Player count:</label><input type="text" id="player-count" name="player-count" checked style="width:40px"><br>
+                    <input type="checkbox" id="allow-unbalanced" name="allow-unbalanced"><label for="allow-unbalanced">Allow unequal teams (where not intended)</label><br>
+                    <label for="team-count">Team count:</label><input type="text" id="team-count" name="team-count" checked style="width:40px"><br>
+                </div>
+                <div class="search-options additional-options">
+                    <h3>Additional Options</h3>
+                    <input type="checkbox" id="only-blackout" name="only-blackout"><label for="only-blackout">Only Include Blackout Variants</label><br>
+                    <input type="checkbox" id="only-lockout" name="only-lockout"><label for="only-lockout">Only Include Lockout Variants</label><br>
+                    <input type="checkbox" id="no-unplayable" name="no-unplayable"><label for="no-unplayable">Don't include unplayable variants</label><br>
+                    <input type="checkbox" id="no-cursed" name="no-cursed"><label for="no-cursed">Exclude cursed variants</label><br>
+                </div>
+            </div>
+            <div class="options-row">
+                <div class="search-options name-search">
+                    <label for="name-search">Name:</label><input type="text" id="name-search" name="name-search" style="width:400px"><br>
+                </div>
+            </div>
+        </div>
+        <div class="search-button-wrapper">
+            <button class="search-button" onclick="search(false)">Search</button>
+            <button class="search-button" onclick="search(true)">Random</button>
+        </div>
+    </div>
+</body>

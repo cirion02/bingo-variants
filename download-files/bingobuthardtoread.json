@@ -1,0 +1,1545 @@
+[
+  [
+    {
+      "name": "Collect the first 6 red berries in the game",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Collect a blue heart while asleep",
+      "types": [
+        "earlygame",
+        "blue_heart"
+      ]
+    },
+    {
+      "name": "Talk to Theo in a room that does not need to be entered to complete the chapter it is in",
+      "types": [
+        "earlygame",
+        "cutscene"
+      ]
+    },
+    {
+      "name": "Complete a checkpoint which contains 6 red berries without dashing",
+      "types": [
+        "earlygame",
+        "task"
+      ]
+    },
+    {
+      "name": "Collect a cassette located before Old Site",
+      "types": [
+        "earlygame",
+        "cassette"
+      ]
+    },
+    {
+      "name": "Collect red berries #16-20",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Collect a heart in the penultimate checkpoint of a chapter",
+      "types": [
+        "earlygame",
+        "blue_heart"
+      ]
+    },
+    {
+      "name": "Collect 6 berries with no more than 2 seconds between collections",
+      "types": [
+        "earlygame",
+        "1up"
+      ]
+    },
+    {
+      "name": "Complete a checkpoint without jumping during 1A",
+      "types": [
+        "earlygame",
+        "task"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Complete a checkpoint with 2 winged berries without dashing",
+      "types": [
+        "earlygame",
+        "task"
+      ]
+    },
+    {
+      "name": "Complete a checkpoint without dashing or seeing spikes",
+      "types": [
+        "earlygame",
+        "task"
+      ]
+    },
+    {
+      "name": "Talk to Theo in Intervention",
+      "types": [
+        "earlygame",
+        "cutscene"
+      ]
+    },
+    {
+      "name": "Collect red berries #21-29",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Collect a winged berry in a checkpoint with no other berries",
+      "types": [
+        "earlygame"
+      ]
+    },
+    {
+      "name": "Collect 10 of the 22 berries in a chapter",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "Collect a cassette in a room entered from above",
+      "types": [
+        "earlygame",
+        "cassette"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Collect as many berries as there are checkpoints with exactly 1 red berry in as many chapters as have such checkpoint(s)",
+      "types": [
+        "x_berries_in_x"
+      ]
+    },
+    {
+      "name": "Read something in a chapter besides 3A",
+      "types": [
+        "earlygame"
+      ]
+    },
+    {
+      "name": "Collect all berries in a checkpoint with a heart and berry in the same room",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Find Letter and PICO-8 in a checkpoint with 7 red berries, no cassette, a blue heart, no yellow hearts, 0 binos, and 1 key",
+      "types": [
+        "cutscene"
+      ]
+    },
+    {
+      "name": "Collect 10 berries in a level containing fewer than 20 berries",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "See letters in berry collect text in more than one chapter outside Farewell",
+      "types": [
+        "1up",
+        "challenge"
+      ]
+    },
+    {
+      "name": "Grabless checkpoint with multiple required keys",
+      "types": [
+        "grabless"
+      ]
+    },
+    {
+      "name": "Initiate conversation with a living person in 2 chapters",
+      "types": [
+        "cutscene"
+      ]
+    },
+    {
+      "name": "Unlock 2 B-sides",
+      "types": [
+        "cassette"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "See green berry collect text in a chapter with a hostile Badeline",
+      "types": [
+        "1up"
+      ]
+    },
+    {
+      "name": "All collectibles required for a full clear in a chapter where this requires all but 2 collectibles",
+      "types": [
+        "fullclear"
+      ]
+    },
+    {
+      "name": "Complete the second checkpoint of a level dashless without activating guided blocks",
+      "types": [
+        "task",
+        "challenge"
+      ]
+    },
+    {
+      "name": "Complete the second checkpoint of a level dashless without activating traffic blocks",
+      "types": [
+        "task",
+        "midgame"
+      ]
+    },
+    {
+      "name": "Grabless checkpoint in Ridge not containing any guided blocks",
+      "types": [
+        "grabless",
+        "progress"
+      ]
+    },
+    {
+      "name": "Collect all berries in an A side checkpoint with 4 coin rooms",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Collect as many berries as exist in cliff face in half of the chapters which contain red berries",
+      "types": [
+        "x_berries_in_x"
+      ]
+    },
+    {
+      "name": "Get 5 Berries which all originate in one room",
+      "types": [
+        "pico-8"
+      ]
+    },
+    {
+      "name": "Don't get points from collecting a berry in a chapter with Madeline decals",
+      "types": [
+        "1up",
+        "progress"
+      ]
+    },
+    {
+      "name": "Collect a heart in a chapter with no pink blocks",
+      "types": [
+        "b-side"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Grabless chapter which can be completed dashless",
+      "types": [
+        "grabless"
+      ]
+    },
+    {
+      "name": "Collect as many Winged Berries as can be acquired before talking to your mom without skipping chapters",
+      "types": [
+        "special_berries"
+      ]
+    },
+    {
+      "name": "3 Hearts from A-sides",
+      "types": [
+        "amount_hearts"
+      ]
+    },
+    {
+      "name": "Receive no points from 3 berries (exclusing the moon berry)",
+      "types": [
+        "1up",
+        "challenge"
+      ]
+    },
+    {
+      "name": "Get as many Winged Berries as exist in 1a",
+      "types": [
+        "special_berries",
+        "earlygame"
+      ]
+    },
+    {
+      "name": "Complete the chapter which has 2 hearts grabless",
+      "types": [
+        "grabless"
+      ]
+    },
+    {
+      "name": "Reach exactly 1200m",
+      "types": [
+        "pico-8"
+      ]
+    },
+    {
+      "name": "Collect a heart with spikes directly below it",
+      "types": [
+        "b-side"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Complete each path in Huge mess while leaving at the closest exit to the next oshiro cutscene each time",
+      "types": [
+        "huge_mess_pathing"
+      ]
+    },
+    {
+      "name": "Collect 2 hearts in City",
+      "types": [
+        "b-side"
+      ]
+    },
+    {
+      "name": "Collect an optional blue heart which must be visible to beat the chapter it is in",
+      "types": [
+        "blue_heart"
+      ]
+    },
+    {
+      "name": "Complete each path in huge mess in an order that allows not talking to oshiro between the second and third paths",
+      "types": [
+        "huge_mess_pathing"
+      ]
+    },
+    {
+      "name": "Collect all but 2 hearts in Site",
+      "types": [
+        "b-side"
+      ]
+    },
+    {
+      "name": "Collect 2 of the following red berries: #25, #70, #115, #152",
+      "types": [
+        "special_berries",
+        "midgame"
+      ]
+    },
+    {
+      "name": "Hit all 3 mess buttons ending with Chests and starting with Towels",
+      "types": [
+        "huge_mess_pathing"
+      ]
+    },
+    {
+      "name": "Collect all berries in a checkpoint with exactly 3 berries not in core",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Talk to Theo while he is upside down",
+      "types": [
+        "cutscene"
+      ]
+    },
+    {
+      "name": "Grabless checkpoint with more than 3 required Oshiro cutscenes",
+      "types": [
+        "grabless"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Collect a cassette in a checkpoint which has exactly 7 non-seeded berries",
+      "types": [
+        "cassette",
+        "midgame"
+      ]
+    },
+    {
+      "name": "Read something in a room with a key",
+      "types": [
+        "cutscene"
+      ]
+    },
+    {
+      "name": "Grabless checkpoint beginning with a required left exit",
+      "types": [
+        "grabless"
+      ]
+    },
+    {
+      "name": "Collect red berries #64-71",
+      "types": [
+        "checkpoint_berries",
+        "midgame"
+      ]
+    },
+    {
+      "name": "Get a 1-Up in all but 4 possible chapters",
+      "types": [
+        "1up",
+        "challenge"
+      ]
+    },
+    {
+      "name": "Complete 3 chapters which contain cassettes",
+      "types": [
+        "amount_chapters",
+        "progress"
+      ]
+    },
+    {
+      "name": "All Collectibles in a chapter with 21 collectibles",
+      "types": [
+        "fullclear"
+      ]
+    },
+    {
+      "name": "Collect a heart in a chapter with a multiple of 10 berries (including goldens)",
+      "types": [
+        "blue_heart",
+        "progress"
+      ]
+    },
+    {
+      "name": "Collect multiple winged berries in multiple chapters",
+      "types": [
+        "special_berries"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "\u2191 \u2192 \u2193",
+      "types": [
+        "huge_mess_pathing"
+      ]
+    },
+    {
+      "name": "Cause -2^2+2^3-3+3^2 snowballs to break",
+      "types": [
+        "progress",
+        "task"
+      ]
+    },
+    {
+      "name": "All Berries in a checkpoint where obstacles are added to a room after a cutscene",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "HM:BCT",
+      "types": [
+        "huge_mess_pathing"
+      ]
+    },
+    {
+      "name": "Collect 1 in 10 berries in the game (rounded down)",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "Collect the number of keys in power source",
+      "types": [
+        "keys"
+      ]
+    },
+    {
+      "name": "All berries in a checkpoint with berries which contains the same number of non-golden berries as there are in its chapter after this checkpoint",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Hit the Huge mess buttons in the order required to collect a 1up with only berries found in huge mess",
+      "types": [
+        "huge_mess_pathing"
+      ]
+    },
+    {
+      "name": "Grabless checkpoint with snowballs in 4 rooms",
+      "types": [
+        "grabless",
+        "progress"
+      ]
+    },
+    {
+      "name": "All Berries in a checkpoint with 5 berries and 1 bino",
+      "types": [
+        "checkpoint_berries",
+        "progress"
+      ]
+    },
+    {
+      "name": "Collect a seventh of the red berries in the game",
+      "types": [
+        "amount_berries"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Grabless checkpoint with exactly one vertical transition, with this transition not connecting to another checkpoint",
+      "types": [
+        "grabless"
+      ]
+    },
+    {
+      "name": "Half of the hearts of a color with a wavelength shorter than that of green",
+      "types": [
+        "amount_hearts"
+      ]
+    },
+    {
+      "name": "Collect 1 winged berry per 35 red berries that exist in the game",
+      "types": [
+        "special_berries"
+      ]
+    },
+    {
+      "name": "Watch an optional cutscene in Start of an odd-numbered chapter",
+      "types": [
+        "cutscene",
+        "progress"
+      ]
+    },
+    {
+      "name": "Collect a Cassette which can be seen from 2 checkpoints",
+      "types": [
+        "cassette"
+      ]
+    },
+    {
+      "name": "x berries in x chapters for the second-largest possible x",
+      "types": [
+        "x_berries_in_x"
+      ]
+    },
+    {
+      "name": "Collect 3 red berries that are not spawned in their rooms by default",
+      "types": [
+        "special_berries"
+      ]
+    },
+    {
+      "name": "Unlock 5 B side",
+      "types": [
+        "cassette",
+        "progress"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Grabless checkpoint with 6 berries which can be collected in any order",
+      "types": [
+        "grabless",
+        "5a"
+      ]
+    },
+    {
+      "name": "Unlock 4 chapters which do not need to be entered for True Ending",
+      "types": [
+        "cassette"
+      ]
+    },
+    {
+      "name": "Collect half of the berries in 4a",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "Collect a 1up in the chapter which contains the 123rd red berry",
+      "types": [
+        "1up",
+        "midgame"
+      ]
+    },
+    {
+      "name": "Use a bino in all but 17 chapters containing binos",
+      "types": [
+        "binoculars",
+        "progress"
+      ]
+    },
+    {
+      "name": "Talk to Theo in the first room of a different checkpoint",
+      "types": [
+        "cutscene",
+        "5a"
+      ]
+    },
+    {
+      "name": "All Berries in a checkpoints with 7 berries which is not the final checkpoint of a chapter nor has a heart",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Collect all keys in b sides",
+      "types": [
+        "5b",
+        "midgame",
+        "keys"
+      ]
+    },
+    {
+      "name": "Grabless checkpoint which can, but does not necessarily, have a room with 2 seekers",
+      "types": [
+        "grabless",
+        "5a"
+      ]
+    },
+    {
+      "name": "x Hearts and x Cassettes for x the number of chapters in City",
+      "types": [
+        "cassette"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Use all but 10 Binoculars in B-Sides",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "Get over half of the Berries in PICO-8",
+      "types": [
+        "pico-8"
+      ]
+    },
+    {
+      "name": "10 times, touch large-headed Oshiro in a way which does not kill Madeline",
+      "types": [
+        "task"
+      ]
+    },
+    {
+      "name": "Collect the only berry in the second checkpoint of a chapter",
+      "types": [
+        "core"
+      ]
+    },
+    {
+      "name": "Collect the heart titled Golden feather",
+      "types": [
+        "b-side"
+      ]
+    },
+    {
+      "name": "Grabless A-side checkpoint with 2 key doors",
+      "types": [
+        "grabless",
+        "midgame"
+      ]
+    },
+    {
+      "name": "10 berries in the chapter with the most cutscenes",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "Use as many Binoculars in B-Sides as exist in the pair of B sides with most binos",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "x Keys in x Chapters for the second-largest possible x",
+      "types": [
+        "keys"
+      ]
+    },
+    {
+      "name": "Collect a red heart which can be collected without touching it",
+      "types": [
+        "5b",
+        "progress"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "All Berries in the checkpoint with the most berries",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Complete 2 chapters with no end cutscenes",
+      "types": [
+        "b-side"
+      ]
+    },
+    {
+      "name": "Get a key which is optional in only some IL runs for the level it resides in",
+      "types": [
+        "keys",
+        "midgame"
+      ]
+    },
+    {
+      "name": "All red berries in a checkpoint with a double digit prime number of red berries and no heart",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Collect a heart in a checkpoint with one optional key",
+      "types": [
+        "blue_heart"
+      ]
+    },
+    {
+      "name": "Dash into a block which can move 4 different directions from 4 different sides",
+      "types": [
+        "task",
+        "progress"
+      ]
+    },
+    {
+      "name": "Collect all berries in a checkpoint 2 rooms with 2 berries",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Collect more berries in 3A than can be collected after start",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "All Berries in a checkpoint with 4 cutscenes in one room and no other cutscenes",
+      "types": [
+        "5a"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Watch an optional cutscene in the second room of a checkpoint outside of 3a",
+      "types": [
+        "cutscene",
+        "progress"
+      ]
+    },
+    {
+      "name": "2 Hearts in 2 Colors",
+      "types": [
+        "b-side",
+        "amount_hearts"
+      ]
+    },
+    {
+      "name": "obtain green hair (without skin mods)",
+      "types": [
+        "pico-8"
+      ]
+    },
+    {
+      "name": "collect a berry which gives dialogue upon touching it",
+      "types": [
+        "5a"
+      ]
+    },
+    {
+      "name": "At the first crossroads in core go right and make it cold",
+      "types": [
+        "core"
+      ]
+    },
+    {
+      "name": "Grabless checkpoint which contains water and a golden berry in the same room",
+      "types": [
+        "grabless",
+        "progress"
+      ]
+    },
+    {
+      "name": "Get 1 Key not in A or B sides",
+      "types": [
+        "ch9",
+        "keys"
+      ]
+    },
+    {
+      "name": "Reach the third checkpoint of a chapter with 24 rooms",
+      "types": [
+        "3b"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Collect more berries than can be found in Temple",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "One fewer than all optional Theo cutscenes",
+      "types": [
+        "cutscene"
+      ]
+    },
+    {
+      "name": "Kill an entity besides madeline which you can play as",
+      "types": [
+        "seeker",
+        "task",
+        "progress"
+      ]
+    },
+    {
+      "name": "Only follow one direction in hollows and collect coins while there",
+      "types": [
+        "task"
+      ]
+    },
+    {
+      "name": "Collect the number of berries found in the checkpoints 2500m, Into the Core, Search, Start of 7A, Depths, Presidential Suite, and Cliff Face combined",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "Get the number of non-optional Keys in 5A in Search",
+      "types": [
+        "5a",
+        "keys"
+      ]
+    },
+    {
+      "name": "Collect a cassette in the second room of a checkpoint",
+      "types": [
+        "cassette",
+        "progress"
+      ]
+    },
+    {
+      "name": "Collect a blue heart in a chapter with 1 bino and no seeded berry",
+      "types": [
+        "blue_heart"
+      ]
+    },
+    {
+      "name": "Grabless PICO-8",
+      "types": [
+        "pico-8"
+      ]
+    },
+    {
+      "name": "Collect 15 berries in a third of the possible chapters",
+      "types": [
+        "x_berries_in_x"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "All Berries the checkpoint with the most collectibles tracked in the vanilla journal",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Get x Keys in Power Source such that there are 4 checkpoints with x or more keys",
+      "types": [
+        "ch9",
+        "keys"
+      ]
+    },
+    {
+      "name": "Complete 2 chapters in 2 letters",
+      "types": [
+        "b-side"
+      ]
+    },
+    {
+      "name": "Collect all berries in a checkpoint with bumpers and more than one berry",
+      "types": [
+        "checkpoint_berries",
+        "core"
+      ]
+    },
+    {
+      "name": "Collect 2 hearts in an area (e.g. city) with 9 binos between the A, B, and C sides",
+      "types": [
+        "b-side"
+      ]
+    },
+    {
+      "name": "All Berries in a checkpoint with 6 berries which can be collected in any order",
+      "types": [
+        "checkpoint_berries",
+        "5a"
+      ]
+    },
+    {
+      "name": "Unlock 5 B sides",
+      "types": [
+        "cassette"
+      ]
+    },
+    {
+      "name": "Use all but exactly 41 binos in a chapter",
+      "types": [
+        "ch9",
+        "binoculars"
+      ]
+    },
+    {
+      "name": "Cause seekers to explode 15 times",
+      "types": [
+        "seeker",
+        "task"
+      ]
+    },
+    {
+      "name": "Complete a chapter which contains more key doors than keys",
+      "types": [
+        "5a"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Use as many Binoculars as exist in power source",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "collect one fifth of the hearts in the game",
+      "types": [
+        "amount_hearts"
+      ]
+    },
+    {
+      "name": "Collect one more berries than can be found in 2a in a chapter where this can be completed in 2 checkpoints",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "Get 2 optional keys in an A side checkpoint",
+      "types": [
+        "5a",
+        "keys"
+      ]
+    },
+    {
+      "name": "Interact with 8 objects using the talk button without initiating cutscenes",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "Complete a B side with an end photo which does not show Madeline's face or pink hair",
+      "types": [
+        "3b"
+      ]
+    },
+    {
+      "name": "Follow only the direction in hollows which requires breaking more walls",
+      "types": [
+        "task"
+      ]
+    },
+    {
+      "name": "Use as many binos as exist in Singular in as many Chapters as there are A sides with exactly one bino",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "Get all but 3 berries in the Celeste Classic",
+      "types": [
+        "pico-8",
+        "challenge"
+      ]
+    },
+    {
+      "name": "Get 3 optional keys in a checkpoint with no binos",
+      "types": [
+        "5a",
+        "keys"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Get as many winged berries as can be collected in only 2 chapters",
+      "types": [
+        "special_berries"
+      ]
+    },
+    {
+      "name": "Get 3 optional keys in a checkpoint with binos",
+      "types": [
+        "ch9",
+        "keys"
+      ]
+    },
+    {
+      "name": "Commit murder on multiple Lovecraftian horrors",
+      "types": [
+        "seeker",
+        "task"
+      ]
+    },
+    {
+      "name": "Use a Binocular in as many Chapters as there are A sides containing binos",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "Collect as many berries as can be found in 2A start in 3 chapters",
+      "types": [
+        "x_berries_in_x"
+      ]
+    },
+    {
+      "name": "Collect as Winged Berries as can be collected before going past Ridge",
+      "types": [
+        "special_berries"
+      ]
+    },
+    {
+      "name": "Get 4 Keys which put Madeline in a bubble",
+      "types": [
+        "ch9",
+        "keys"
+      ]
+    },
+    {
+      "name": "Kill a non-even prime number of Different Seekers",
+      "types": [
+        "seeker",
+        "task"
+      ]
+    },
+    {
+      "name": "4 of each non-berry collectible tracked by bingoui",
+      "types": [
+        "cassette"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Complete as many B sides as do not contain exactly 2 binos",
+      "types": [
+        "amount_chapters"
+      ]
+    },
+    {
+      "name": "Collect as few hearts as would be possible to complete 8A without entering a B side",
+      "types": [
+        "amount_hearts"
+      ]
+    },
+    {
+      "name": "stun seekers 20 times",
+      "types": [
+        "seeker",
+        "task"
+      ]
+    },
+    {
+      "name": "Complete a checkpoint with a heart, cassette, and optional cutscene grabless",
+      "types": [
+        "grabless"
+      ]
+    },
+    {
+      "name": "Collect fifteen strawberries in each of three different chapters which contain at least 15 strawberries combined between red and golden berries",
+      "types": [
+        "x_berries_in_x"
+      ]
+    },
+    {
+      "name": "Collect as many blue hearts as can be collected before unlocking Ridge and as many red hearts as there are berries in Presidential Suite",
+      "types": [
+        "amount_chapters",
+        "amount_hearts"
+      ]
+    },
+    {
+      "name": "Encounter the Towerfall group",
+      "types": [
+        "task",
+        "6a"
+      ]
+    },
+    {
+      "name": "Complete half of the chapters which must be completed in an all A sides run",
+      "types": [
+        "amount_chapters"
+      ]
+    },
+    {
+      "name": "Grabless checkpoint with more than 3 optional keys",
+      "types": [
+        "grabless",
+        "ch9"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "All Berries in 7A start (4)",
+      "types": [
+        "progress"
+      ]
+    },
+    {
+      "name": "Collect as many berries as can be found in 2a and 3a",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "Reach a checkpoint whose name is two words, the second of which has 6 letters",
+      "types": [
+        "lategame",
+        "6a",
+        "6b"
+      ]
+    },
+    {
+      "name": "Collect all hearts chapters containing seekers",
+      "types": [
+        "5b"
+      ]
+    },
+    {
+      "name": "Use All Binoculars in a checkpoint with 3 binoculars",
+      "types": [
+        "binoculars",
+        "progress"
+      ]
+    },
+    {
+      "name": "Collect the berry in a checkpoint with a feather",
+      "types": [
+        "core"
+      ]
+    },
+    {
+      "name": "Collect the number of Berries which can be found in Summit",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "Complete a checkpoint grabless which shares its name with a checkpoint which is not called start, not found in Summit, and does not contain the name of a chapter",
+      "types": [
+        "grabless"
+      ]
+    },
+    {
+      "name": "Use as many binos as exist in Singular in as many Chapters as have exactly 1 bino",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "All Collectibles in Ridge which can be collected without entering 4B",
+      "types": [
+        "fullclear"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Collect as many Berries as there are non-golden winged berries in as many chapters as contain an odd number of red winged berries",
+      "types": [
+        "x_berries_in_x"
+      ]
+    },
+    {
+      "name": "Collect as Winged Berries as can be collected without berries from 1a",
+      "types": [
+        "special_berries"
+      ]
+    },
+    {
+      "name": "Complete x A-Sides and x B-Sides such that x is the number of chapters in Ridge",
+      "types": [
+        "amount_chapters"
+      ]
+    },
+    {
+      "name": "3 collectibles which are in no way tracked by bingoui besides keys",
+      "types": [
+        "gems"
+      ]
+    },
+    {
+      "name": "Collect as many berries in Core as there are red berries in 7 chapters",
+      "types": [
+        "core",
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "Grabless Chapter with the most cutscenes",
+      "types": [
+        "grabless"
+      ]
+    },
+    {
+      "name": "Collect more winged berries than there exist binoculars in 7A",
+      "types": [
+        "special_berries"
+      ]
+    },
+    {
+      "name": "All Collectibles required for a full clear in a chapter with 4 checkpoints containing berries, none of which are seeded",
+      "types": [
+        "fullclear"
+      ]
+    },
+    {
+      "name": "collect the 8 sided and 10 sided gems",
+      "types": [
+        "gems",
+        "progress"
+      ]
+    },
+    {
+      "name": "Complete a chapter with exactly one Badeline orb and and which ends in a skippable cutscene",
+      "types": [
+        "lategame",
+        "6a"
+      ]
+    },
+    {
+      "name": "Touch an object in 8A for which there is only one of this type of object in 8A, but which is not a collectible",
+      "types": [
+        "core"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Collect 3 less berries in 7A than there are berries in required rooms to complete 7A",
+      "types": [
+        "lategame"
+      ]
+    },
+    {
+      "name": "Collect as many hearts as there are berries in 1000m",
+      "types": [
+        "amount_hearts"
+      ]
+    },
+    {
+      "name": "Use as many binos as exist in Ridge",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "All Berries in the Summit checkpoint which requires a grab input",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Collect a winged berry in 1a which cannot be collected while entering at the checkpoint is resides in",
+      "types": [
+        "challenge"
+      ]
+    },
+    {
+      "name": "Watch a composite number of optional Theo cutscenes",
+      "types": [
+        "cutscene"
+      ]
+    },
+    {
+      "name": "Collect as many hearts as there are chapter completions required for any%",
+      "types": [
+        "amount_hearts"
+      ]
+    },
+    {
+      "name": "Use as many Binoculars as exist in Determination",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "All Berries in the latest checkpoint with 6 berries",
+      "types": [
+        "lategame"
+      ]
+    },
+    {
+      "name": "Grabless chapter with 2 checkpoints with one berry",
+      "types": [
+        "grabless",
+        "5a"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Use 5 binos in an area (e.g. core) where one chapter has a perfect cube number of binos and where this ca be completed in one chapter",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "Collect as many berries as can be collected before the Granny cutscene in 4a",
+      "types": [
+        "amount_berries",
+        "big_berries"
+      ]
+    },
+    {
+      "name": "Collect as many gems in Summit as are accessed from the left",
+      "types": [
+        "gems",
+        "lategame"
+      ]
+    },
+    {
+      "name": "Use all Binoculars in the checkpoint with the most binos outside of Farewell",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "Collect 20 less Berries than the number of theses Martin Luther wrote in his '95 theses'",
+      "types": [
+        "amount_berries",
+        "big_berries"
+      ]
+    },
+    {
+      "name": "Collect a Cassette in a chapter with a seeded berry in a different checkpoint",
+      "types": [
+        "cassette"
+      ]
+    },
+    {
+      "name": "Collect a heart in 2 chapters with Oshiro",
+      "types": [
+        "3b"
+      ]
+    },
+    {
+      "name": "collect the gem with a binocular and the gem in a screen-sized room",
+      "types": [
+        "gems",
+        "lategame"
+      ]
+    },
+    {
+      "name": "Collect a double digit quantity of berries in all but one possible chapter",
+      "types": [
+        "x_berries_in_x"
+      ]
+    },
+    {
+      "name": "10 keys combined between 2 chapters",
+      "types": [
+        "keys"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "All Berries in a checkpoint with a red berry in the first room but no berry in the last room outside of Huge Mess",
+      "types": [
+        "lategame"
+      ]
+    },
+    {
+      "name": "Complete at least half of the chapters which are completed in bny%",
+      "types": [
+        "amount_chapters"
+      ]
+    },
+    {
+      "name": "Complete a chapter with 2 binos in its Start checkpoint",
+      "types": [
+        "6b"
+      ]
+    },
+    {
+      "name": "Collect 4 collectibles which require a dash to collect but which are not hearts",
+      "types": [
+        "gems",
+        "lategame"
+      ]
+    },
+    {
+      "name": "Collect all keys in Farewell",
+      "types": [
+        "ch9",
+        "keys"
+      ]
+    },
+    {
+      "name": "All Berries a checkpoint with a winged berry, seeded berry, and no heart",
+      "types": [
+        "lategame"
+      ]
+    },
+    {
+      "name": "Collect as many berries as hearts required to open the heart gate in Farewell in as many chapters as have heart gates",
+      "types": [
+        "x_berries_in_x",
+        "big_berries"
+      ]
+    },
+    {
+      "name": "Collect the pink and white gems",
+      "types": [
+        "gems",
+        "lategame"
+      ]
+    },
+    {
+      "name": "Reach a car outside of Prologue and Core",
+      "types": [
+        "ch9",
+        "task",
+        "challenge"
+      ]
+    },
+    {
+      "name": "Collect a baker's dozen berry seeds and their associated berries",
+      "types": [
+        "special_berries",
+        "lategame"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "All Berries in the checkpoint containing red berry #163",
+      "types": [
+        "lategame"
+      ]
+    },
+    {
+      "name": "Collect the blue and red heart in the area with a heart titled 'Center of the Earth'",
+      "types": [
+        "6b"
+      ]
+    },
+    {
+      "name": "Use as many binos as exist in Singular in as many Chapters as have exactly that number of binos",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "Collect more berries in 7A than exist in the Mirror Temple",
+      "types": [
+        "lategame"
+      ]
+    },
+    {
+      "name": "Complete more than half of the A sides",
+      "types": [
+        "amount_chapters"
+      ]
+    },
+    {
+      "name": "Reach a B side checkpoint containing snowballs",
+      "types": []
+    },
+    {
+      "name": "All Collectibles required for a full clear in the chapter with the most key doors",
+      "types": [
+        "fullclear"
+      ]
+    },
+    {
+      "name": "All flags in a checkpoint containing flags",
+      "types": [
+        "lategame",
+        "task"
+      ]
+    },
+    {
+      "name": "Collect a blue heart which ends the chapter",
+      "types": [
+        "core"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Get one less that half of all berries",
+      "types": [
+        "amount_berries",
+        "big_berries"
+      ]
+    },
+    {
+      "name": "Reach the 5th checkpoint of a chapter with a heart gate",
+      "types": [
+        "ch9"
+      ]
+    },
+    {
+      "name": "All Collectibles required for a full clear in a capter where over half of the red berries are in one checkpoint",
+      "types": [
+        "core",
+        "fullclear"
+      ]
+    },
+    {
+      "name": "Collect a collectible which requires 6 other collectibles to have been collected in order to reach",
+      "types": [
+        "gems",
+        "blue_heart"
+      ]
+    },
+    {
+      "name": "All Berries in the checkpoint with the most berries in a pair of rooms excluding PICO-8 berries",
+      "types": [
+        "lategame"
+      ]
+    },
+    {
+      "name": "Collect a collectable in a room with no floor tiles",
+      "types": []
+    },
+    {
+      "name": "Visit the Bird\u0027s Nest",
+      "types": [
+        "lategame",
+        "task"
+      ]
+    },
+    {
+      "name": "Complete 5 chapters which are not required in True ending or All A Sides runs",
+      "types": [
+        "amount_chapters"
+      ]
+    },
+    {
+      "name": "Collect as many berries as there are rooms in Power Source in as many chapters as there are rooms in Farewell (the checkpoint)",
+      "types": [
+        "x_berries_in_x"
+      ]
+    }
+  ]
+]

@@ -1,0 +1,61 @@
+#!/usr/bin/env python
+
+#Warning, this is cursed.
+
+import execjs
+import sys
+
+with open(".git/hooks/pre-commit", 'r') as file:
+	this_file = file.read()
+
+with open("pre-commit.example", 'w') as file:
+	file.write(this_file)
+
+with open("variant-list.js", 'r', encoding='utf-8') as file:
+	data = file.read()
+
+ctx = execjs.compile(data)
+
+data = ctx.eval("variant_list_data")
+
+accepted = True
+
+REQUIRED_VALUES = ["tags","color","credit","description","min_teams","max_teams","min_players_per_team","max_players_per_team"]
+VALID_COLORS = ["White", "Purple", "Blue", "Green", "Orange", "Red"]
+VALID_VALUES = ["name","tags","color","credit","description","external_links","notes","min_teams","max_teams","min_players_per_team","max_players_per_team","player_count_override"]
+
+for variant in data:
+	if not "name" in variant.keys():
+		print("Theres a variant without a name")
+		accepted = False
+		continue
+	name = variant["name"]
+	for val in variant.keys():
+		if not val in VALID_VALUES:
+			print(f"Variant {name} has field {val}, this is not a valid field.")
+			accepted = False
+	everything_present = True
+	for val in REQUIRED_VALUES:
+		if not val in variant.keys():
+			print(f"Variant {name} does not have a {val} field.")
+			everything_present = False
+			accepted = False
+	if not everything_present:
+		continue
+	if not variant["color"] in VALID_COLORS:
+		print(f"Variant {name} does not have a valid color. ({variant['color']}) (You might have forgotten to capitalize)")
+		accepted = False
+	if "external_links" in variant.keys():
+		links = variant["external_links"]
+		for link in links:
+			if not "name" in link.keys():
+				print(f"Variant {name} has a external_link without a name.")
+				accepted = False
+			if not ("link" in link.keys() or "file" in link.keys()):
+				print(f"Variant {name} has a external_link without a link or file.")
+				accepted = False
+	
+if accepted:
+	sys.exit(0)
+	
+sys.exit(1)

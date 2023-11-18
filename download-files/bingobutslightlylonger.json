@@ -1,0 +1,1346 @@
+[
+  [
+    {
+      "name": "10 Berries in 1A",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Get a 1-Up in 1A and 2A",
+      "types": [
+        "1up"
+      ]
+    },
+    {
+      "name": "Forsaken City and Old Site Cassettes",
+      "types": [
+        "cassette"
+      ]
+    },
+    {
+      "name": "Talk to Theo in Crossing twice",
+      "types": [
+        "cutscene"
+      ]
+    },
+    {
+      "name": "Talk to Theo in Awake twice",
+      "types": [
+        "cutscene"
+      ]
+    },
+    {
+      "name": "Final 3 berries in 2A",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "All Collectibles in Start of 2A (10)",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "6 Collectibles in Chasm",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "1A Heart and Cassette",
+      "types": [
+        "blue_heart"
+      ]
+    },
+    {
+      "name": "Complete 2 checkpoints in 1A without dashing",
+      "types": [
+        "task"
+      ]
+    },
+    {
+      "name": "Read the Poem and collect the berry in Awake",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "15 Berries in 1A",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "15 Berries in 2A",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "5 Berries in 4 Chapters",
+      "types": [
+        "x_berries_in_x"
+      ]
+    },
+    {
+      "name": "Get a 1-Up in 3 Chapters",
+      "types": [
+        "1up",
+        "challenge"
+      ]
+    },
+    {
+      "name": "Get a 1-Up in 4 Chapters",
+      "types": [
+        "1up",
+        "challenge"
+      ]
+    },
+    {
+      "name": "Get five 1-Ups",
+      "types": [
+        "1up",
+        "challenge"
+      ]
+    },
+    {
+      "name": "3 Cassettes",
+      "types": [
+        "cassette"
+      ]
+    },
+    {
+      "name": "2 optional Theo cutscenes, twice",
+      "types": [
+        "cutscene"
+      ]
+    },
+    {
+      "name": "Find Letter and PICO-8 after collecting the key in Huge Mess",
+      "types": [
+        "cutscene"
+      ]
+    },
+    {
+      "name": "Grabless Start of 3A",
+      "types": [
+        "grabless"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Old Site B-Side",
+      "types": [
+        "b-side"
+      ]
+    },
+    {
+      "name": "Blue and Red Heart in Old Site",
+      "types": [
+        "b-side"
+      ]
+    },
+    {
+      "name": "Grabless 1A",
+      "types": [
+        "grabless"
+      ]
+    },
+    {
+      "name": "Grabless 2A",
+      "types": [
+        "grabless"
+      ]
+    },
+    {
+      "name": "30 Berries",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "35 Berries",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "All Berries in Intervention (8)",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "All Berries in Crossing (9)",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Complete Crossing without dashing",
+      "types": [
+        "task",
+        "challenge"
+      ]
+    },
+    {
+      "name": "Get three 1-ups in 4A",
+      "types": [
+        "1up",
+        "progress"
+      ]
+    },
+    {
+      "name": "Two checkpoints in 4A grabless",
+      "types": [
+        "grabless",
+        "progress"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "All Collectibles in 1A",
+      "types": [
+        "fullclear"
+      ]
+    },
+    {
+      "name": "Complete Shrine without dashing",
+      "types": [
+        "task",
+        "midgame"
+      ]
+    },
+    {
+      "name": "10 Berries in 4 Chapters",
+      "types": [
+        "x_berries_in_x"
+      ]
+    },
+    {
+      "name": "Get 10 Berries in PICO-8",
+      "types": [
+        "pico-8"
+      ]
+    },
+    {
+      "name": "6 Winged Berries",
+      "types": [
+        "special_berries"
+      ]
+    },
+    {
+      "name": "4 Blue Hearts",
+      "types": [
+        "amount_hearts"
+      ]
+    },
+    {
+      "name": "Reach the orb in PICO-8",
+      "types": [
+        "pico-8"
+      ]
+    },
+    {
+      "name": "Forsaken City B-Side",
+      "types": [
+        "b-side"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Blue and Red Heart in Forsaken City",
+      "types": [
+        "b-side"
+      ]
+    },
+    {
+      "name": "Huge Mess: Books \u2191 Towel \u2192 Chest \u2193",
+      "types": [
+        "huge_mess_pathing"
+      ]
+    },
+    {
+      "name": "Huge Mess: Books \u2191 Chest \u2193 Towel \u2192",
+      "types": [
+        "huge_mess_pathing"
+      ]
+    },
+    {
+      "name": "Huge Mess: Towel \u2192 Chest \u2193 Books \u2191",
+      "types": []
+    },
+    {
+      "name": "Grabless Celestial Resort Blue Heart",
+      "types": [
+        "blue_heart"
+      ]
+    },
+    {
+      "name": "3 Seeded Berries",
+      "types": [
+        "special_berries",
+        "midgame"
+      ]
+    },
+    {
+      "name": "All Berries in Presidential Suite Grabless (3)",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Talk to Theo in Elevator Shaft twice",
+      "types": [
+        "cutscene"
+      ]
+    },
+    {
+      "name": "Grabless Huge Mess",
+      "types": [
+        "grabless"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "All Collectibles in Start of 4A (9)",
+      "types": [
+        "cassette",
+        "checkpoint_berries",
+        "midgame"
+      ]
+    },
+    {
+      "name": "Complete 4 A-Sides",
+      "types": [
+        "amount_chapters"
+      ]
+    },
+    {
+      "name": "All Collectibles in 2A",
+      "types": [
+        "fullclear"
+      ]
+    },
+    {
+      "name": "5 Winged Berries across 2 Chapters",
+      "types": [
+        "special_berries"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Huge Mess: Books \u2191 Towel \u2192 Books \u2191 Chest \u2193",
+      "types": [
+        "huge_mess_pathing"
+      ]
+    },
+    {
+      "name": "Jump on 20 Snowballs",
+      "types": [
+        "progress",
+        "task"
+      ]
+    },
+    {
+      "name": "All Berries in Elevator Shaft Grabless (4)",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Huge Mess: Books \u2191 Chest \u2193 Towel \u2192 Books \u2191",
+      "types": [
+        "huge_mess_pathing"
+      ]
+    },
+    {
+      "name": "7 Keys",
+      "types": [
+        "keys"
+      ]
+    },
+    {
+      "name": "All Berries in Huge Mess (7)",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Huge Mess: Chest \u2193 Books \u2191 Towel \u2192 Books \u2191",
+      "types": [
+        "huge_mess_pathing"
+      ]
+    },
+    {
+      "name": "Grabless Cliff Face",
+      "types": [
+        "grabless",
+        "progress"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "4 Blue Hearts",
+      "types": [
+        "amount_hearts"
+      ]
+    },
+    {
+      "name": "7 Winged Berries",
+      "types": [
+        "special_berries"
+      ]
+    },
+    {
+      "name": "Find Theo\u0027s Phone in 5A",
+      "types": [
+        "cutscene",
+        "progress"
+      ]
+    },
+    {
+      "name": "All Collectiles in Elevator Shaft (5)",
+      "types": [
+        "cassette"
+      ]
+    },
+    {
+      "name": "5 Berries in 5 Chapters",
+      "types": [
+        "x_berries_in_x"
+      ]
+    },
+    {
+      "name": "Golden Ridge and Mirror Temple Cassettes",
+      "types": [
+        "cassette",
+        "progress"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Grabless Search and Rescue",
+      "types": [
+        "grabless",
+        "5a"
+      ]
+    },
+    {
+      "name": "5 Cassettes",
+      "types": [
+        "cassette"
+      ]
+    },
+    {
+      "name": "20 Berries in 4A",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "Get Three 1-ups in 5A",
+      "types": [
+        "1up",
+        "midgame"
+      ]
+    },
+    {
+      "name": "Use 1 Binocular in 5 Chapters",
+      "types": [
+        "binoculars",
+        "progress"
+      ]
+    },
+    {
+      "name": "Talk to Theo in Search",
+      "types": [
+        "cutscene",
+        "5a"
+      ]
+    },
+    {
+      "name": "All Berries in Old Trail and Cliff Face (12)",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Get 2 Keys in 5B",
+      "types": [
+        "5b",
+        "midgame",
+        "keys"
+      ]
+    },
+    {
+      "name": "Grabless Unraveling",
+      "types": [
+        "grabless",
+        "5a"
+      ]
+    },
+    {
+      "name": "3 Hearts and 4 Cassettes",
+      "types": [
+        "cassette"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Use 5 Binoculars in B-Sides",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "Get 15 Berries in PICO-8",
+      "types": [
+        "pico-8"
+      ]
+    },
+    {
+      "name": "Stun Oshiro 20 Times",
+      "types": [
+        "task"
+      ]
+    },
+    {
+      "name": "All Berries in Into the Core, as intended. (1)",
+      "types": [
+        "core"
+      ]
+    },
+    {
+      "name": "Golden Ridge B-Side",
+      "types": [
+        "b-side"
+      ]
+    },
+    {
+      "name": "Grabless Start and Depths in 5A",
+      "types": [
+        "grabless",
+        "midgame"
+      ]
+    },
+    {
+      "name": "All Berries in Start of 3A (11)",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Use 2 Binoculars in 3 B-Sides",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "2 Keys in 3 Chapters",
+      "types": [
+        "keys"
+      ]
+    },
+    {
+      "name": "Mirror Temple B-Side",
+      "types": [
+        "5b",
+        "progress"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "All Berries in Start of 5A (12)",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Complete 3 B-Sides",
+      "types": [
+        "b-side"
+      ]
+    },
+    {
+      "name": "Mirror Temple Blue Heart",
+      "types": [
+        "blue_heart"
+      ]
+    },
+    {
+      "name": "Hit a Kevin block from all 4 sides in 2 chapters",
+      "types": [
+        "task",
+        "progress"
+      ]
+    },
+    {
+      "name": "All Collectibles in Shrine (10)",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "18 Berries in 3A",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "All Berries in Unraveling (1)",
+      "types": [
+        "5a"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Reflection Cutscene in Hollows",
+      "types": [
+        "cutscene",
+        "progress"
+      ]
+    },
+    {
+      "name": "4 Blue and 2 Red Hearts",
+      "types": [
+        "b-side",
+        "amount_hearts"
+      ]
+    },
+    {
+      "name": "Complete PICO-8",
+      "types": [
+        "pico-8"
+      ]
+    },
+    {
+      "name": "All Berries in Rescue (1)",
+      "types": [
+        "5a"
+      ]
+    },
+    {
+      "name": "Switch to Ice on the right of Into the Core and complete the checkpoint",
+      "types": [
+        "core"
+      ]
+    },
+    {
+      "name": "Grabless Lake",
+      "types": [
+        "grabless",
+        "progress"
+      ]
+    },
+    {
+      "name": "Get 1 Key in Power Source",
+      "types": [
+        "ch9",
+        "keys"
+      ]
+    },
+    {
+      "name": "Reach Rooftop (3B Checkpoint)",
+      "types": [
+        "3b"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "45 Berries",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "All 4 optional Theo cutscenes, twice",
+      "types": [
+        "cutscene"
+      ]
+    },
+    {
+      "name": "Kill 3 different Seekers",
+      "types": [
+        "seeker",
+        "task",
+        "progress"
+      ]
+    },
+    {
+      "name": "50 Berries",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "Get 2 Keys in Search",
+      "types": [
+        "5a",
+        "keys"
+      ]
+    },
+    {
+      "name": "Cassette and Blue Heart in Reflection",
+      "types": [
+        "cassette",
+        "progress"
+      ]
+    },
+    {
+      "name": "All berries in PICO-8 (18)",
+      "types": [
+        "pico-8"
+      ]
+    },
+    {
+      "name": "18 Berries in 2 Chapters",
+      "types": [
+        "x_berries_in_x"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "All Berries in Depths (11)",
+      "types": [
+        "checkpoint_berries"
+      ]
+    },
+    {
+      "name": "Get 3 Keys in Power Source",
+      "types": [
+        "ch9",
+        "keys"
+      ]
+    },
+    {
+      "name": "Complete 2 A-Sides and 2 B-Sides",
+      "types": [
+        "b-side"
+      ]
+    },
+    {
+      "name": "All Berries in Hot and Cold (3)",
+      "types": [
+        "checkpoint_berries",
+        "core"
+      ]
+    },
+    {
+      "name": "Blue and Red Heart in Golden Ridge",
+      "types": [
+        "b-side"
+      ]
+    },
+    {
+      "name": "All Berries in Search (6)",
+      "types": [
+        "checkpoint_berries",
+        "5a"
+      ]
+    },
+    {
+      "name": "6 Cassettes",
+      "types": [
+        "cassette"
+      ]
+    },
+    {
+      "name": "Use 10 Binoculars in Farewell",
+      "types": [
+        "ch9",
+        "binoculars"
+      ]
+    },
+    {
+      "name": "Stun Seekers 25 Times",
+      "types": [
+        "seeker",
+        "task"
+      ]
+    },
+    {
+      "name": "Mirror Temple A-Side",
+      "types": [
+        "5a"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Use 11 Binoculars",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "7 Hearts",
+      "types": [
+        "amount_hearts"
+      ]
+    },
+    {
+      "name": "20 Berries in 5A",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "Get 3 Keys in Search",
+      "types": [
+        "5a",
+        "keys"
+      ]
+    },
+    {
+      "name": "Use 12 Binoculars",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "Celestial Resort B-Side",
+      "types": [
+        "3b"
+      ]
+    },
+    {
+      "name": "Visit every room in Hollows",
+      "types": [
+        "task"
+      ]
+    },
+    {
+      "name": "Use 2 Binoculars in 4 Chapters",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "Full Clear Pico-8",
+      "types": [
+        "pico-8",
+        "challenge"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "8 Winged Berries",
+      "types": [
+        "special_berries"
+      ]
+    },
+    {
+      "name": "Get 4 Keys in Power Source",
+      "types": [
+        "ch9",
+        "keys"
+      ]
+    },
+    {
+      "name": "Kill 5 Different Seekers",
+      "types": [
+        "seeker",
+        "task"
+      ]
+    },
+    {
+      "name": "Use 1 Binocular in 5 Chapters",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "15 Berries in 3 Chapters",
+      "types": [
+        "x_berries_in_x"
+      ]
+    },
+    {
+      "name": "9 Winged Berries",
+      "types": [
+        "special_berries"
+      ]
+    },
+    {
+      "name": "Get 5 Keys in Power Source",
+      "types": [
+        "ch9",
+        "keys"
+      ]
+    },
+    {
+      "name": "Kill 6 Different Seekers",
+      "types": [
+        "seeker",
+        "task"
+      ]
+    },
+    {
+      "name": "5 Hearts and 5 Cassettes",
+      "types": [
+        "cassette"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Complete 4 B-Sides",
+      "types": [
+        "amount_chapters"
+      ]
+    },
+    {
+      "name": "6 Blue Hearts",
+      "types": [
+        "amount_hearts"
+      ]
+    },
+    {
+      "name": "All Collectibles in Hollows grabless",
+      "types": [
+        "grabless"
+      ]
+    },
+    {
+      "name": "18 Berries in 3 Chapters",
+      "types": [
+        "x_berries_in_x"
+      ]
+    },
+    {
+      "name": "5 Blue and 3 Red Hearts",
+      "types": [
+        "amount_chapters",
+        "amount_hearts"
+      ]
+    },
+    {
+      "name": "Easteregg Room in Reflection",
+      "types": [
+        "task",
+        "6a"
+      ]
+    },
+    {
+      "name": "Complete 5 A-Sides",
+      "types": [
+        "amount_chapters"
+      ]
+    },
+    {
+      "name": "Grabless Power Source",
+      "types": [
+        "grabless",
+        "ch9"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "10 Berries in Summit",
+      "types": [
+        "progress"
+      ]
+    },
+    {
+      "name": "65 Berries",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "Reach Rock Bottom (6A/6B Checkpoint)",
+      "types": [
+        "lategame",
+        "6a",
+        "6b"
+      ]
+    },
+    {
+      "name": "Blue and Red Heart in Mirror Temple",
+      "types": [
+        "5b"
+      ]
+    },
+    {
+      "name": "Use 7 Binoculars in Summit",
+      "types": [
+        "binoculars",
+        "progress"
+      ]
+    },
+    {
+      "name": "All Collectibles in Heart of the Mountain (3)",
+      "types": [
+        "core"
+      ]
+    },
+    {
+      "name": "70 Berries",
+      "types": [
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "Grabless Rock Bottom",
+      "types": [
+        "grabless"
+      ]
+    },
+    {
+      "name": "Use 2 Binoculars in 5 Chapters",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "All Collectibles in 4A",
+      "types": [
+        "fullclear"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "18 Berries in 4 Chapters",
+      "types": [
+        "x_berries_in_x"
+      ]
+    },
+    {
+      "name": "10 Winged Berries",
+      "types": [
+        "special_berries"
+      ]
+    },
+    {
+      "name": "Complete 4 A-Sides and 4 B-Sides",
+      "types": [
+        "amount_chapters"
+      ]
+    },
+    {
+      "name": "4 Gems in The Summit",
+      "types": [
+        "gems"
+      ]
+    },
+    {
+      "name": "4 Seeded Berries",
+      "types": [
+        "special_berries",
+        "lategame"
+      ]
+    },
+    {
+      "name": "5 Berries in 8A",
+      "types": [
+        "core",
+        "amount_berries"
+      ]
+    },
+    {
+      "name": "Grabless 3A",
+      "types": [
+        "grabless"
+      ]
+    },
+    {
+      "name": "11 Winged Berries",
+      "types": [
+        "special_berries"
+      ]
+    },
+    {
+      "name": "All Collectibles in 3A",
+      "types": [
+        "fullclear"
+      ]
+    },
+    {
+      "name": "0M, 500M and 1000M Gems",
+      "types": [
+        "gems",
+        "progress"
+      ]
+    },
+    {
+      "name": "Reflection A-Side",
+      "types": [
+        "lategame",
+        "6a"
+      ]
+    },
+    {
+      "name": "Reach the Cassette in Heart of the Mountain",
+      "types": [
+        "core"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "25 Berries in 7A",
+      "types": [
+        "lategame"
+      ]
+    },
+    {
+      "name": "8 Hearts",
+      "types": [
+        "amount_hearts"
+      ]
+    },
+    {
+      "name": "Use 13 Binoculars",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "All Berries in 500M and 1000M (12)",
+      "types": [
+        "lategame"
+      ]
+    },
+    {
+      "name": "Winged Golden Berry",
+      "types": [
+        "challenge"
+      ]
+    },
+    {
+      "name": "9 Hearts",
+      "types": [
+        "amount_hearts"
+      ]
+    },
+    {
+      "name": "Use 14 Binoculars",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "Grabless 5A",
+      "types": [
+        "grabless",
+        "5a"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "Use 8 Binoculars in The Summit",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "80 Berries",
+      "types": [
+        "amount_berries",
+        "big_berries"
+      ]
+    },
+    {
+      "name": "5 Keys in 3 Chapters",
+      "types": [
+        "keys"
+      ]
+    },
+    {
+      "name": "5 Gems in The Summit",
+      "types": [
+        "gems",
+        "lategame"
+      ]
+    },
+    {
+      "name": "100 Berries",
+      "types": [
+        "amount_berries",
+        "big_berries"
+      ]
+    },
+    {
+      "name": "The Summit Cassette",
+      "types": [
+        "cassette"
+      ]
+    },
+    {
+      "name": "Blue and Red Heart in Celestial Resort",
+      "types": [
+        "3b"
+      ]
+    },
+    {
+      "name": "1000M, 1500M and 2000M Gems",
+      "types": [
+        "gems",
+        "lategame"
+      ]
+    },
+    {
+      "name": "10 Berries in 5 Chapters",
+      "types": [
+        "x_berries_in_x"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "All Berries in 1500M and 2000M (16)",
+      "types": [
+        "lategame"
+      ]
+    },
+    {
+      "name": "Complete 4 B-Sides",
+      "types": [
+        "amount_chapters"
+      ]
+    },
+    {
+      "name": "Reflection B-Side",
+      "types": [
+        "6b"
+      ]
+    },
+    {
+      "name": "6 Gems in The Summit",
+      "types": [
+        "gems",
+        "lategame"
+      ]
+    },
+    {
+      "name": "Reach Event Horizon (FW Checkpoint)",
+      "types": [
+        "ch9",
+        "keys"
+      ]
+    },
+    {
+      "name": "15 Berries in 5 Chapters",
+      "types": [
+        "x_berries_in_x",
+        "big_berries"
+      ]
+    },
+    {
+      "name": "2000M and 2500M Gems",
+      "types": [
+        "gems",
+        "lategame"
+      ]
+    },
+    {
+      "name": "Reach both Intro Cars in Farewell",
+      "types": [
+        "ch9",
+        "challenge"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "All Berries in 2500M and 3000M (15)",
+      "types": [
+        "lategame"
+      ]
+    },
+    {
+      "name": "Blue and Red Heart in Reflection",
+      "types": [
+        "6b"
+      ]
+    },
+    {
+      "name": "Use 2 Binoculars in 6 Chapters",
+      "types": [
+        "binoculars"
+      ]
+    },
+    {
+      "name": "40 Berries in 7A",
+      "types": [
+        "lategame"
+      ]
+    },
+    {
+      "name": "Complete 6 A-Sides",
+      "types": [
+        "amount_chapters"
+      ]
+    },
+    {
+      "name": "The Summit B-Side",
+      "types": []
+    },
+    {
+      "name": "All Collectibles in 5A",
+      "types": [
+        "fullclear"
+      ]
+    },
+    {
+      "name": "The Summit Blue Heart",
+      "types": []
+    },
+    {
+      "name": "Visit the Bird\u0027s Nest in Epilogue",
+      "types": [
+        "lategame",
+        "task"
+      ]
+    }
+  ],
+  [
+    {
+      "name": "All Collectibles in 7A",
+      "types": []
+    },
+    {
+      "name": "125 Berries",
+      "types": []
+    },
+    {
+      "name": "Reach Stubbornness (FW Checkpoint)",
+      "types": []
+    },
+    {
+      "name": "All Flags in 3000M (50) \u003E:)",
+      "types": []
+    },
+    {
+      "name": "Complete 6 B-Sides",
+      "types": []
+    },
+    {
+      "name": "18 Berries in 6 Chapters",
+      "types": []
+    },
+    {
+      "name": "Blue and Red Heart in The Summit",
+      "types": []
+    }
+  ]
+]

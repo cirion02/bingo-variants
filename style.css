@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(2, 0, 32);
+    color: rgb(162, 162, 162);
+    font-family: Verdana, sans-serif;
+}
+
+.holder {
+    padding: 15px;
+}
+
+.variantBox {
+    outline: 2px solid;
+    outline-color: rgb(35, 25, 173);
+    padding: 5px;
+    margin: 5px 0px;
+}
+
+h3 {
+    margin: 0px;
+}
+
+.White {
+    color: white;
+}
+
+.Purple {
+    color: rgb(140, 17, 171);
+}
+
+.Blue {
+    color: rgb(99, 185, 255);
+}
+
+.Green {
+    color: rgb(17, 139, 17);
+}
+
+.Orange {
+    color: rgb(232, 152, 4);
+}
+
+.Red {
+    color: rgb(206, 2, 2);
+}
+
+.search-options {
+    outline: 2px solid;
+    outline-color: rgb(35, 25, 173);
+    float: left;
+    padding: 5px;
+    margin: 0px 5px;
+}
+
+.search-button-wrapper{
+    padding-top: 30px;
+    clear: both;
+}
+
+.search-button{
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.homepage-button{
+    font-size: xx-large;
+    color:rgb(114, 114, 188);
+    outline: 4px solid;
+    outline-color: rgb(35, 25, 173);
+    padding: 5px;
+    margin: 0px 5px;
+    text-decoration: none;
+}
+
+.centered-box{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.options-row{
+    display:inline-block;
+    width:100%;
+    padding-bottom: 20px;
+}

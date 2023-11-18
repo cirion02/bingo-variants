@@ -1,0 +1,880 @@
+[
+	[{
+			"name": "All Berries in 6A",
+			"types": ["auto"]
+		},
+		{
+			"name": "All Keys in 7B",
+			"types": ["auto"]
+		},
+		{
+			"name": "All Berries in 3 B-Sides",
+			"types": ["auto"]
+		},
+		{
+			"name": "All Red Berries in Farewell",
+			"types": ["auto"]
+		},
+		{
+			"name": "All Binoculars in 3A",
+			"types": ["auto"]
+		},
+		{
+			"name": "All Winged Berries in 8A",
+			"types": ["auto"]
+		},
+		{
+			"name": "All Seeded Berries in 1A",
+			"types": ["auto"]
+		},
+		{
+			"name": "All Green Hearts",
+			"types": ["auto"]
+		},
+		{
+			"name": "Unlock Jumping",
+			"types": ["auto"]
+		}
+	],
+	[{
+			"name": "Complete Prologue Twice",
+			"types": ["prologue"]
+		},
+		{
+			"name": "Scare 5 Birds",
+			"types": ["prologue"]
+		},
+		{
+			"name": "Insult an Old Woman",
+			"types": ["prologue"]
+		},
+		{
+			"name": "Unlock Dashing",
+			"types": ["prologue"]
+		},
+		{
+			"name": "Perform a Cornerboost",
+			"types": ["prologue"]
+		},
+		{
+			"name": "Survive a Collapsing Bridge",
+			"types": ["prologue"]
+		},
+		{
+			"name": "Visit the Bird's Nest in Prologue",
+			"types": ["prologue"]
+		}
+	],
+	[{
+			"name": "3 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "All Non-Berry Collectibles in 1 Chapter",
+			"types": ["cassettes"]
+		},
+		{
+			"name": "All Prime-Numbered Berries in 1A",
+			"types": ["early_berries"]
+		},
+		{
+			"name": "1 Crystal Heart Without the Letter 'a'",
+			"types": ["hearts"]
+		},
+		{
+			"name": "1 Berry in 1A",
+			"types": ["early_berries"]
+		},
+		{
+			"name": "3 Berries in 1A",
+			"types": ["early_berries"]
+		},
+		{
+			"name": "8 Berries in 1A",
+			"types": ["early_berries"]
+		},
+		{
+			"name": "2 Berries in 2A",
+			"types": ["early_berries"]
+		},
+		{
+			"name": "5 Berries in 2A",
+			"types": ["early_berries"]
+		}
+	],
+	[{
+			"name": "4 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "Every Other Berry in 1A",
+			"types": ["early_berries"]
+		},
+		{
+			"name": "All Prime-Numbered Berries in 2A",
+			"types": ["early_berries"]
+		},
+		{
+			"name": "Complete Awake without Jumping",
+			"types": ["jumpless"]
+		},
+		{
+			"name": "2 Berries in 1A",
+			"types": ["early_berries"]
+		},
+		{
+			"name": "5 Berries in 1A",
+			"types": ["early_berries"]
+		},
+		{
+			"name": "1 Berry in 2A",
+			"types": ["early_berries"]
+		},
+		{
+			"name": "3 Berries in 2A",
+			"types": ["early_berries"]
+		}
+	],
+	[{
+			"name": "5 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "8 Berries in 2A",
+			"types": ["early_berries"]
+		},
+		{
+			"name": "Grabless Old Site",
+			"types": ["grabless"]
+		},
+		{
+			"name": "1 Blue and 1 Red Heart",
+			"types": ["hearts"]
+		},
+		{
+			"name": "All Non-Berry Collectibles in 2 Chapters",
+			"types": ["cassettes"]
+		},
+		{
+			"name": "Every Other Berry in 2A",
+			"types": ["early_berries"]
+		},
+		{
+			"name": "All Berries in Start of 2A in Reverse Order",
+			"types": ["special_berries"]
+		},
+		{
+			"name": "1 Crystal Heart Without the Letter 'o'",
+			"types": ["hearts"]
+		},
+		{
+			"name": "2 Optional Theo Cutscenes in 2 Different Languages",
+			"types": ["cutscene"]
+		}
+	],
+	[{
+			"name": "6 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "Drink Water. Hydration is Important.",
+			"types": ["misc"]
+		},
+		{
+			"name": "2 Hearts",
+			"types": ["hearts"]
+		},
+		{
+			"name": "All Non-Berry Collectibles in 4A",
+			"types": ["cassettes"]
+		},
+		{
+			"name": "Half of the Berries in 2 Chapters With Red Berries",
+			"types": ["all_berries"]
+		},
+		{
+			"name": "3 Checkpoints Grabless",
+			"types": ["grabless"]
+		},
+		{
+			"name": "2 Crystal Hearts Without the Letter 'a'",
+			"types": ["hearts"]
+		},
+		{
+			"name": "3 Binoculars Above Room Entry Level",
+			"types": ["bino"]
+		}
+	],
+	[{
+			"name": "7 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "3 Hearts with Primary Colors",
+			"types": ["hearts"]
+		},
+		{
+			"name": "Complete Intervention without Jumping",
+			"types": ["jumpless"]
+		},
+		{
+			"name": "13 Berries in 2A",
+			"types": ["early_berries"]
+		},
+		{
+			"name": "2 Berries in 4A",
+			"types": ["mid_berries"]
+		},
+		{
+			"name": "5 Berries in 4A",
+			"types": ["mid_berries"]
+		},
+		{
+			"name": "Take the Hidden Path Before Cliff Face",
+			"types": ["misc"]
+		},
+		{
+			"name": "All Non-Seeded Berries in 2A",
+			"types": ["special_berries"]
+		},
+		{
+			"name": "5 Berries in Each Checkpoint of 1A",
+			"types": ["early_berries"]
+		}
+	],
+	[{
+			"name": "8 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "3 Cassettes",
+			"types": ["cassettes"]
+		},
+		{
+			"name": "13 Berries in 1A",
+			"types": ["early_berries"]
+		},
+		{
+			"name": "1 Berry in 4A",
+			"types": ["mid_berries"]
+		},
+		{
+			"name": "3 Berries in 4A",
+			"types": ["mid_berries"]
+		},
+		{
+			"name": "2 Hearts and 2 Cassettes",
+			"types": ["hearts"]
+		},
+		{
+			"name": "All Berries in 1 Chapter",
+			"types": ["all_berries"]
+		},
+		{
+			"name": "All Non-Winged Berries in 2A",
+			"types": ["special_berries"]
+		}
+	],
+	[{
+			"name": "9 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "10 Screens Dashless",
+			"types": ["dashless"]
+		},
+		{
+			"name": "3 Crystal Hearts Without the Letter 'a'",
+			"types": ["hearts"]
+		},
+		{
+			"name": "2 Crystal Hearts Without the Letter 'o'",
+			"types": ["hearts"]
+		},
+		{
+			"name": "2 Binoculars on Brown Ledges",
+			"types": ["bino"]
+		},
+		{
+			"name": "All Binoculars in 4A",
+			"types": ["bino"]
+		},
+		{
+			"name": "1 Berry in 5A",
+			"types": ["mid_berries"]
+		},
+		{
+			"name": "3 Berries in 5A",
+			"types": ["mid_berries"]
+		},
+		{
+			"name": "6 Keys",
+			"types": ["keys"]
+		}
+	],
+	[{
+			"name": "10 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "2 Checkpoints Dashless",
+			"types": ["dashless"]
+		},
+		{
+			"name": "1 Crystal Heart Without the Letter 'i'",
+			"types": ["hearts"]
+		},
+		{
+			"name": "4 Binoculars Above Room Entry Level",
+			"types": ["bino"]
+		},
+		{
+			"name": "Reset PICO-8 at 1100M",
+			"types": ["pico-8"]
+		},
+		{
+			"name": "8 Berries in 4A",
+			"types": ["mid_berries"]
+		},
+		{
+			"name": "2 Berries in 5A",
+			"types": ["mid_berries"]
+		},
+		{
+			"name": "5 Berries in 5A",
+			"types": ["mid_berries"]
+		}
+	],
+	[{
+			"name": "11 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "City B-Side OR Site B-Side",
+			"types": ["b_side"]
+		},
+		{
+			"name": "All Non-Berry Collectibles in 3 Chapters",
+			"types": ["cassettes"]
+		},
+		{
+			"name": "5 Checkpoints Grabless",
+			"types": ["grabless"]
+		},
+		{
+			"name": "Don't Skip Final 4A Cutscene in French",
+			"types": ["cutscene"]
+		},
+		{
+			"name": "Don't Skip Final 4A Cutscene in Italian",
+			"types": ["cutscene"]
+		},
+		{
+			"name": "3 Binoculars Below Room Entry Level",
+			"types": ["bino"]
+		},
+		{
+			"name": "4 Hearts with Primary Colors",
+			"types": ["hearts"]
+		},
+		{
+			"name": "8 Berries in 5A",
+			"types": ["mid_berries"]
+		}
+	],
+	[{
+			"name": "12 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "All Non-Berry Collectibles in 3A",
+			"types": ["cassettes"]
+		},
+		{
+			"name": "All Prime-Numbered Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "Don't Skip Final 4A Cutscene in Spanish",
+			"types": ["cutscene"]
+		},
+		{
+			"name": "Don't Skip Final 4A Cutscene in Portuguese",
+			"types": ["cutscene"]
+		},
+		{
+			"name": "Don't Skip Final 4A Cutscene in Dutch",
+			"types": ["cutscene"]
+		},
+		{
+			"name": "3 Binoculars on Brown Ledges",
+			"types": ["bino"]
+		},
+		{
+			"name": "13 Berries in 4A",
+			"types": ["mid_berries"]
+		}
+	],
+	[{
+			"name": "13 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "3 Hearts and 3 Cassettes",
+			"types": ["hearts"]
+		},
+		{
+			"name": "All Non-Berry Collectibles in 4 Chapters",
+			"types": ["cassettes"]
+		},
+		{
+			"name": "Every Other Berry in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "20 Screens Dashless",
+			"types": ["dashless"]
+		},
+		{
+			"name": "Don't Skip Final 4A Cutscene in Japanese",
+			"types": ["cutscene"]
+		},
+		{
+			"name": "Don't Skip Final 4A Cutscene in Chinese",
+			"types": ["cutscene"]
+		},
+		{
+			"name": "1 Crystal Heart Without the Letter 'e'",
+			"types": ["hearts"]
+		},
+		{
+			"name": "3 Optional Theo Cutscenes in 3 Different Languages",
+			"types": ["cutscene"]
+		}
+	],
+	[{
+			"name": "14 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "All Berries in 2 Chapters",
+			"types": ["all_berries"]
+		},
+		{
+			"name": "Stun Seekers 30 Times",
+			"types": ["smash"]
+		},
+		{
+			"name": "All Prime-Numbered Berries in 4A",
+			"types": ["mid_berries"]
+		},
+		{
+			"name": "3 Checkpoints Dashless",
+			"types": ["dashless"]
+		},
+		{
+			"name": "Don't Skip Final 4A Cutscene in Russian",
+			"types": ["cutscene"]
+		},
+		{
+			"name": "Don't Skip Final 4A Cutscene in Korean",
+			"types": ["cutscene"]
+		},
+		{
+			"name": "3 Crystal Hearts Without the Letter 'o'",
+			"types": ["hearts"]
+		}
+	],
+	[{
+			"name": "15 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "Reset PICO-8 at 2100M",
+			"types": ["pico-8"]
+		},
+		{
+			"name": "1 Berry in 7A",
+			"types": ["late_berries"]
+		},
+		{
+			"name": "Talk to Old Lady in Core",
+			"types": ["cutscene"]
+		},
+		{
+			"name": "Half of the Berries in 3 Chapters With Red Berries",
+			"types": ["all_berries"]
+		},
+		{
+			"name": "Every Other Berry in 4A",
+			"types": ["mid_berries"]
+		},
+		{
+			"name": "All Berries in Search in Reverse Order",
+			"types": ["special_berries"]
+		},
+		{
+			"name": "5 Binoculars Above Room Entry Level",
+			"types": ["bino"]
+		},
+		{
+			"name": "Get the Orb in PICO-8",
+			"types": ["pico-8"]
+		}
+	],
+	[{
+			"name": "16 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "No Shortcut in 5A Double Bubble Room",
+			"types": ["misc"]
+		},
+		{
+			"name": "2 Berries in 7A",
+			"types": ["late_berries"]
+		},
+		{
+			"name": "Resort B-Side OR Ridge B-Side",
+			"types": ["b_side"]
+		},
+		{
+			"name": "Kill The Same Seeker Twice",
+			"types": ["smash"]
+		},
+		{
+			"name": "7 Checkpoints Grabless",
+			"types": ["grabless"]
+		},
+		{
+			"name": "2 Crystal Hearts Without the Letter 'i'",
+			"types": ["hearts"]
+		},
+		{
+			"name": "6 Binoculars Above Room Entry Level",
+			"types": ["bino"]
+		},
+		{
+			"name": "5 Hearts with Primary Colors",
+			"types": ["hearts"]
+		}
+	],
+	[{
+			"name": "17 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "21 Berries in 4A",
+			"types": ["mid_berries"]
+		},
+		{
+			"name": "3 Berries in 7A",
+			"types": ["late_berries"]
+		},
+		{
+			"name": "8 Berries in 7A",
+			"types": ["late_berries"]
+		},
+		{
+			"name": "Grabless Celestial Resort",
+			"types": ["grabless"]
+		},
+		{
+			"name": "Stun Oshiro 25 Times",
+			"types": ["smash"]
+		},
+		{
+			"name": "3 Berries in Each Checkpoint of 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "All Prime-Numbered Berries in 5A",
+			"types": ["mid_berries"]
+		},
+		{
+			"name": "4 Binoculars Below Room Entry Level",
+			"types": ["bino"]
+		}
+	],
+	[{
+			"name": "18 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "13 Berries in 5A",
+			"types": ["mid_berries"]
+		},
+		{
+			"name": "5 Berries in 7A",
+			"types": ["late_berries"]
+		},
+		{
+			"name": "9 Keys",
+			"types": ["keys"]
+		},
+		{
+			"name": "Grabless Mirror Temple",
+			"types": ["grabless"]
+		},
+		{
+			"name": "Jump on 25 Snowballs",
+			"types": ["smash"]
+		},
+		{
+			"name": "Every Other Berry in 5A",
+			"types": ["mid_berries"]
+		},
+		{
+			"name": "30 Screens Dashless",
+			"types": ["dashless"]
+		},
+		{
+			"name": "4 Binoculars on Brown Ledges",
+			"types": ["bino"]
+		}
+	],
+	[{
+			"name": "19 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "All Keys in Rooms with 2 or More Keys",
+			"types": ["keys"]
+		},
+		{
+			"name": "Break All Red Blocks in 5B",
+			"types": ["misc"]
+		},
+		{
+			"name": "1 Berry in 8A",
+			"types": ["late_berries"]
+		},
+		{
+			"name": "4 Hearts and 4 Cassettes",
+			"types": ["hearts"]
+		},
+		{
+			"name": "All Non-Winged Berries in 5A",
+			"types": ["special_berries"]
+		},
+		{
+			"name": "All Berries in 0M in Reverse Order",
+			"types": ["special_berries"]
+		},
+		{
+			"name": "Light All Lamps in 1st Depths Hub Room",
+			"types": ["misc"]
+		},
+		{
+			"name": "Light All Lamps in Search Hub Room",
+			"types": ["misc"]
+		}
+	],
+	[{
+			"name": "20 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "Break All Red Blocks in 5A",
+			"types": ["misc"]
+		},
+		{
+			"name": "Listen to An Entire Cassette Room Track",
+			"types": ["misc"]
+		},
+		{
+			"name": "Disintegrate 10 Jellyfish",
+			"types": ["misc"]
+		},
+		{
+			"name": "All Non-Seeded Berries in 5A",
+			"types": ["special_berries"]
+		},
+		{
+			"name": "9 Checkpoints Grabless",
+			"types": ["grabless"]
+		},
+		{
+			"name": "4 Optional Theo Cutscenes in 4 Different Languages",
+			"types": ["cutscene"]
+		},
+		{
+			"name": "Light All Lamps in 2nd Depths Hub Room",
+			"types": ["misc"]
+		}
+	],
+	[{
+			"name": "21 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "Complete PICO-8",
+			"types": ["pico-8"]
+		},
+		{
+			"name": "21 Berries in 5A",
+			"types": ["mid_berries"]
+		},
+		{
+			"name": "2 Berries in 8A",
+			"types": ["late_berries"]
+		},
+		{
+			"name": "Use 8 Binoculars in 1 Chapter",
+			"types": ["bino"]
+		},
+		{
+			"name": "12 Keys",
+			"types": ["keys"]
+		},
+		{
+			"name": "Half of the Berries in 4 Chapters With Red Berries",
+			"types": ["all_berries"]
+		},
+		{
+			"name": "3 Winged Berries in 1 Chapter",
+			"types": ["special_berries"]
+		}
+	],
+	[{
+			"name": "22 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "6 Hearts with Primary Colors",
+			"types": ["hearts"]
+		},
+		{
+			"name": "13 Berries in 7A",
+			"types": ["late_berries"]
+		},
+		{
+			"name": "Use 10 Binoculars in 1 Chapter",
+			"types": ["bino"]
+		},
+		{
+			"name": "Disintegrate 20 Jellyfish",
+			"types": ["misc"]
+		},
+		{
+			"name": "Grabless Badeline",
+			"types": ["grabless"]
+		},
+		{
+			"name": "Kill 2 Different Seekers in 1 Screen",
+			"types": ["smash"]
+		}
+	],
+	[{
+			"name": "Stun Seekers 70 Times",
+			"types": ["smash"]
+		},
+		{
+			"name": "23 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "All Prime-Numbered Berries in 7A",
+			"types": ["late_berries"]
+		},
+		{
+			"name": "Hit Every Kevin From Every Possible Side in 6A",
+			"types": ["misc"]
+		},
+		{
+			"name": "15 Berries in PICO-8",
+			"types": ["pico-8"]
+		},
+		{
+			"name": "21 Berries in 7A",
+			"types": ["late_berries"]
+		},
+		{
+			"name": "Use 12 Binoculars in 1 Chapter",
+			"types": ["bino"]
+		},
+		{
+			"name": "Grabless Reflection (Chapter)",
+			"types": ["grabless"]
+		}
+	],
+	[{
+			"name": "Jump on 50 Snowballs",
+			"types": ["smash"]
+		},
+		{
+			"name": "24 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "2 Winged Berries in 3 Chapters",
+			"types": ["special_berries"]
+		},
+		{
+			"name": "3 Crystal Hearts Without the Letter 'i'",
+			"types": ["hearts"]
+		},
+		{
+			"name": "Hit Every Kevin From Every Possible Side in 6B",
+			"types": ["misc"]
+		},
+		{
+			"name": "Complete Resolution without Jumping",
+			"types": ["jumpless"]
+		},
+		{
+			"name": "3 Berries in 8A",
+			"types": ["late_berries"]
+		},
+		{
+			"name": "Disintegrate 30 Jellyfish",
+			"types": ["misc"]
+		}
+	],
+	[{
+			"name": "Stun Oshiro 50 Times",
+			"types": ["smash"]
+		},
+		{
+			"name": "1 Red Berry in Every Checkpoint With Red Berries",
+			"types": ["all_berries"]
+		},
+		{
+			"name": "25 Berries in 3A",
+			"types": ["3a_berries"]
+		},
+		{
+			"name": "All Winged Berries",
+			"types": ["special_berries"]
+		},
+		{
+			"name": "All Seeded Berries",
+			"types": ["special_berries"]
+		},
+		{
+			"name": "4 Berries in Each Checkpoint of 7A",
+			"types": ["late_berries"]
+		},
+		{
+			"name": "Every Other Berry in 7A",
+			"types": ["late_berries"]
+		},
+		{
+			"name": "7 Hearts with Primary Colors",
+			"types": ["hearts"]
+		},
+		{
+			"name": "34 Berries in 7A",
+			"types": ["late_berries"]
+		},
+		{
+			"name": "5 Berries in 8A",
+			"types": ["late_berries"]
+		},
+		{
+			"name": "Reflection B-Side OR Summit B-Side",
+			"types": ["b_side"]
+		}
+	]
+]
+
