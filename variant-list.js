@@ -393,6 +393,44 @@ let variant_list_data = [
         max_players_per_team: 1,
     },
     {
+        name: "Rocky Road",
+        credit: "Reed, Generator by rhelmot",
+        description: "A variant of lockout (or blackout) in which players play a game of lockout with Rocky Road Progression.",
+        color:"Blue",
+        tags: ["lockout", "custom-generator"],
+        external_links: [{
+            name: "Generator",
+            file: "download-files/Lockout_RockyRoad.json"
+        }],
+        min_teams: 2,
+        max_teams: 2,
+        min_players_per_team: 1,
+        max_players_per_team: 1
+    },
+    {
+        name: "k単語",
+        credit: "RandomName",
+        description: "A variant of ktango in which routers communicate with their players in a foreign language.",
+        color:"Green",
+        tags: ["lockout", "ktango", "cursed"],
+        min_teams: 2,
+        max_teams: 2,
+        min_players_per_team: 2,
+        max_players_per_team: 2
+    },
+    {
+        name: "2 experts, 1 beginner (2x1b)",
+        credit: "Lmjacks, with input from various",
+        descripion: "A variant of blackout in which a team of 2 experts play against a beginner without losing a single objective.",
+        notes: "This variant must be played on Banana Split progression and must not contain pico objectives longer than \"Reach Old Site in PICO-8\" to remove early skip advantage and PICO-8 rushes. A variation of 2x1b has 2 experts play against any opponent where the number of objectives needed to win is agreed upon prior to the match.",
+        color:"Green",
+        tags: ["lockout", "blackout"],
+        min_teams: 2,
+        max_teams: 2,
+        min_players_per_team: 1,
+        max_players_per_team: 2
+    },
+    {
         name: "Symmetrical Ktango",
         credit: "notEphim",
         description: "A variant of ktango in which teams of players route each other to have their partner complete objectives on a board that only they can see. Can be played lockout, blackout, or 3 line.",
@@ -1178,14 +1216,19 @@ let variant_list_data = [
     },
     {
         name: "Trackmania Bingo",
-        credit: "Cirion",
-        description: "A bingo board with 25 ILs (or checkpoints) on it is created. 7 player teams fight to get one or two complete lines on the board. To tick off a square for the first time, a player must beat that IL, and note their time for completing it. Any player on either team can then steal that square by completing the IL in a faster time, also lowering the time needed to steal that square again.",
+        credit: "Cirion, Generator by creep.",
+        description: "A bingo board with 25 ILs (or checkpoints) on it is created. 2 teams fight to get one or two complete lines on the board. To tick off a square for the first time, a player must beat that IL, and note their time for completing it. Any player on either team can then steal that square by completing the IL in a faster time, also lowering the time needed to steal that square again.",
+        notes: "Use the Randomized setting to create a board, not the srlv5 setting. There is no way of keeping track of IL times without recording the time externally.",
         color:"Orange",
-        tags:["unplayable", "custom-generator"],
+        external_links: [{
+            name:"Generator + Additional Ruleset",
+            link:"https://docs.google.com/spreadsheets/d/1y8Pxg9ARSgLRuE25jj2yRWSSveKdVk4mATQf0MPkbBw/edit?usp=sharing"
+        }],
+        tags:["custom-generator"],
         min_teams:2,
         max_teams:2,
-        min_players_per_team:7,
-        max_players_per_team:7
+        min_players_per_team:1,
+        max_players_per_team:null
     },
     {
         name: "Blindfolded Ktango",
@@ -1205,7 +1248,7 @@ let variant_list_data = [
     },
     {
         name: "Splatoongo / Thiefgo",
-        credit: "idontexist, ilikerandom, independently",
+        credit: "idontexist, ilikerandom independently",
         description: "A board is generated with 25 very short, nonspecific, repeatable objectives (such as 'Get 1 bino' or 'Get to a multiple of 5 berries'). If you complete an objective, you may tick it your color, and your progress to that objective resets. You may override another player's ticked cell, if you have just completed the objective. After a fixed period of time, the player with more completed objectives wins.",
         notes: "No generator currently exists. ilikerandom suggested Thiefgo, a similar variant but using the original generator, with delaying disallowed, and only allowing players to steal an objective a finite number of times.",
         color:"Orange",
