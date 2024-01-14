@@ -71,18 +71,6 @@ let variant_list_data = [
         max_players_per_team:null,
     },
     {
-        name: "Chairgo",
-        credit: "metagloria",
-        description: "Multiple players play on a bingo board with 25 objectives. While there are n players left, each player must tick at least ceil(10/n) objectives, or ceil(15/n) objectives in cheat mode. Players cannot tick extra objectives, and players may not tick the same objective. The last player to tick their required objectives is eliminated. A new card is generated, and play continues with n-1 players. With 3 players remaining, the game ends and the first, second, and third place finishers are determined in one round.",
-        notes:"This gamemode is often played with cheat mode, which reduces round length and decreases reliance on execution. A full game with n people can take about 10*(n-2) minutes.",
-        color:"Purple",
-        tags:["long"],
-        min_teams:1,
-        max_teams:null,
-        min_players_per_team:1,
-        max_players_per_team:1,
-    },
-    {
         name: "3 Line Bingo",
         credit: "Inspired by various other bingo games",
         description: "A variant of solo blackout in which instead of completing the entire board, players are allowed to choose any three lines and complete them. Standard blackout rules apply.",
@@ -139,7 +127,29 @@ let variant_list_data = [
         min_players_per_team:1,
         max_players_per_team:1,
     },
-
+    {
+        name: "Chairgo",
+        credit: "metagloria",
+        description: "Multiple players play on a bingo board with 25 objectives. While there are n players left, each player must tick at least ceil(10/n) objectives, or ceil(15/n) objectives in cheat mode. Players cannot tick extra objectives, and players may not tick the same objective. The last player to tick their required objectives is eliminated. A new card is generated, and play continues with n-1 players. With 3 players remaining, the game ends and the first, second, and third place finishers are determined in one round.",
+        notes:"This gamemode is often played with cheat mode, which reduces round length and decreases reliance on execution. A full game with n people can take about 10*(n-2) minutes.",
+        color:"Blue",
+        tags:["long"],
+        min_teams:1,
+        max_teams:null,
+        min_players_per_team:1,
+        max_players_per_team:1,
+    },
+    {
+        name: "Zombie Chase Bingo (Zombingo)",
+        credit: "metagloria",
+        description: "Identical to Chairgo, but players which are eliminated become zombies and also go for objectives.",
+        color:"Blue",
+        tags:["long"],
+        min_teams:2,
+        max_teams:2,
+        min_players_per_team:1,
+        max_players_per_team:null,
+    },
     {
         name: "Ktango (Blackout)",
         credit: "jacks",
@@ -383,6 +393,44 @@ let variant_list_data = [
         max_players_per_team: 1,
     },
     {
+        name: "Rocky Road",
+        credit: "Reed, Generator by rhelmot",
+        description: "A variant of lockout (or blackout) in which players play a game of lockout with Rocky Road Progression.",
+        color:"Blue",
+        tags: ["lockout", "custom-generator"],
+        external_links: [{
+            name: "Generator",
+            file: "download-files/Lockout_RockyRoad.json"
+        }],
+        min_teams: 2,
+        max_teams: 2,
+        min_players_per_team: 1,
+        max_players_per_team: 1
+    },
+    {
+        name: "k単語",
+        credit: "Random Name",
+        description: "A variant of ktango in which routers communicate with their players in a foreign language.",
+        color:"Green",
+        tags: ["lockout", "ktango", "cursed"],
+        min_teams: 2,
+        max_teams: 2,
+        min_players_per_team: 2,
+        max_players_per_team: 2
+    },
+    {
+        name: "2 experts, 1 beginner (2x1b)",
+        credit: "Lmjacks, with input from various",
+        description: "A variant of blackout in which a team of 2 experts play against a beginner without losing a single objective.",
+        notes: "This variant must be played on Banana Split progression and must not contain pico objectives longer than \"Reach Old Site in PICO-8\" to remove early skip advantage and PICO-8 rushes. A variation of 2x1b has 2 experts play against any opponent where the number of objectives needed to win is agreed upon prior to the match.",
+        color:"Green",
+        tags: ["lockout", "blackout"],
+        min_teams: 2,
+        max_teams: 2,
+        min_players_per_team: 1,
+        max_players_per_team: 2
+    },
+    {
         name: "Symmetrical Ktango",
         credit: "notEphim",
         description: "A variant of ktango in which teams of players route each other to have their partner complete objectives on a board that only they can see. Can be played lockout, blackout, or 3 line.",
@@ -455,7 +503,7 @@ let variant_list_data = [
     },
     {
         name: "Variants (0 Gravity)",
-        credit: "Cirion, Generator by RandomName",
+        credit: "Cirion, Generator by Random Name",
         description: "A variant of lockout in which players play with 0 gravity.",
         notes: "Setting 0 gravity requires use of the Extended Variants mod. A custom generator is used to remove many impossible objectives.",
         color: "Green",
@@ -592,7 +640,7 @@ let variant_list_data = [
     },
     {
         name: "Line Lockout",
-        credit: "RandomName",
+        credit: "Random Name",
         description: "A variant of lockout in which one player attempts to get a single line (5 objectives in a row) and the other player tries to stop them.",
         notes: "Favors the player attempting to block the line.",
         color: "Green",
@@ -663,7 +711,7 @@ let variant_list_data = [
     },
     {
         name: "Bingobuthardtoread",
-        credit: "RandomName",
+        credit: "Random Name",
         description: "A variant of lockout bingo in which objectives in the standard generator are replaced with objectives which require doing the exact same thing, but are significantly harder to understand or parse. As an example, \"10 Berries in 3 Chapters\" could be replaced with \"As many berries as exist in 2A Start, collected in a number of different chapters equal to the number of chapters containing snowballs\".",
         color: "Green",
         external_links:[{
@@ -743,7 +791,7 @@ let variant_list_data = [
     },
     {
         name: "One Way Lockout",
-        credit: "RandomName",
+        credit: "Random Name",
         description: "An unbalanced variant of lockout bingo in which Player A cannot tick objectives that player B has, but Player B can. Whoever has more objectives when all 25 squares are ticked wins.",
         notes:"This directly favors Player B, making it ideal when players have a skill deficit.",
         color:"Green",
@@ -789,7 +837,7 @@ let variant_list_data = [
     },
     {
         name: "Untieredgo",
-        credit: "Epyc, RandomName",
+        credit: "Epyc, Random Name",
         description: "A variant of bingo where objectives are untiered, allowed for ridiculous amounts of synergy, multiple tier 25 objectives, or other silly stuff.",
         notes: "Due to the way probability works, most boards are nondescript and indeed indistinguishable from a normal lockout board. To play this, use the Randomized option on Celeste Bingosync.",
         color:"Green",
@@ -927,17 +975,6 @@ let variant_list_data = [
         max_players_per_team:1
     },
     {
-        name: "Zombie Chase Bingo (Zombingo)",
-        credit: "metagloria",
-        description: "Identical to Chairgo, but players which are eliminated become zombies and also go for objectives.",
-        color:"Green",
-        tags:["long"],
-        min_teams:2,
-        max_teams:2,
-        min_players_per_team:1,
-        max_players_per_team:1,
-    },
-    {
         name: "Pyramidgo",
         credit: "ilikerandom",
         description: "A variant of blackout bingo in which before the game players pick a row and a column in which 5 objectives must be done, a row and a column in which 4 objectives must be done, and so on, until picking a row and a column where 1 objective must be done. Then, players play standard blackout, only completing the required objectives.",
@@ -958,6 +995,31 @@ let variant_list_data = [
         max_teams:2,
         min_players_per_team:1,
         max_players_per_team:1
+    },
+    {
+        name: "Oldsitego",
+        credit: "ad",
+        description: "A variant of lockout (or blackout) in which all the objectives are Old Site related",
+        external_links: [{
+            name:"Generator",
+            file:"download-files/oldsitego.json"
+        }],
+        tags:["lockout", "blackout", "custom-generator", "cursed"],
+        min_teams:1,
+        max_teams: null,
+        min_players_per_team:1,
+        max_players_per_team:null
+    },
+    {
+        name: "Artgo",
+        credit: "bulletinfi, Epyc independently",
+        description: "On a large bingo board, players complete objectives to make pixel art.",
+        color:"Green",
+        tags:["blackout"],
+        min_teams:1,
+        max_teams:1,
+        min_players_per_team:1,
+        max_players_per_team:null
     },
     {
         name: "Celestenet Bingo",
@@ -1093,7 +1155,7 @@ let variant_list_data = [
     },
     {
         name: "Tic-Tac-go",
-        credit: "RandomName",
+        credit: "Random Name",
         description: "Two players play on a 3x3 board of 9 mess orders, including 4-length orders like Chests-Books-Towels-Books. If a player completes a line of 3 orders, they win.",
         color:"Orange",
         external_links:[{
@@ -1152,17 +1214,6 @@ let variant_list_data = [
         max_players_per_team:1
     },
     {
-        name: "Artgo",
-        credit: "bulletinfi, Epyc independently",
-        description: "On a large bingo board, players complete objectives to make pixel art.",
-        color:"Orange",
-        tags:["blackout"],
-        min_teams:1,
-        max_teams:1,
-        min_players_per_team:1,
-        max_players_per_team:null
-    },
-    {
         name: "Masochistgo",
         credit: "Cirion",
         description: "A variant of lockout bingo in which all objectives are extremely difficult challenges.",
@@ -1179,14 +1230,19 @@ let variant_list_data = [
     },
     {
         name: "Trackmania Bingo",
-        credit: "Cirion",
-        description: "A bingo board with 25 ILs (or checkpoints) on it is created. 7 player teams fight to get one or two complete lines on the board. To tick off a square for the first time, a player must beat that IL, and note their time for completing it. Any player on either team can then steal that square by completing the IL in a faster time, also lowering the time needed to steal that square again.",
+        credit: "Cirion, Generator by creep.",
+        description: "A bingo board with 25 ILs (or checkpoints) on it is created. 2 teams fight to get one or two complete lines on the board. To tick off a square for the first time, a player must beat that IL, and note their time for completing it. Any player on either team can then steal that square by completing the IL in a faster time, also lowering the time needed to steal that square again.",
+        notes: "Use the Randomized setting to create a board, not the srlv5 setting. There is no way of keeping track of IL times without recording the time externally.",
         color:"Orange",
-        tags:["unplayable", "custom-generator"],
+        external_links: [{
+            name:"Generator + Additional Ruleset",
+            link:"https://docs.google.com/spreadsheets/d/1y8Pxg9ARSgLRuE25jj2yRWSSveKdVk4mATQf0MPkbBw/edit?usp=sharing"
+        }],
+        tags:["custom-generator"],
         min_teams:2,
         max_teams:2,
-        min_players_per_team:7,
-        max_players_per_team:7
+        min_players_per_team:1,
+        max_players_per_team:null
     },
     {
         name: "Blindfolded Ktango",
@@ -1206,7 +1262,7 @@ let variant_list_data = [
     },
     {
         name: "Splatoongo / Thiefgo",
-        credit: "idontexist, ilikerandom, independently",
+        credit: "idontexist, ilikerandom independently",
         description: "A board is generated with 25 very short, nonspecific, repeatable objectives (such as 'Get 1 bino' or 'Get to a multiple of 5 berries'). If you complete an objective, you may tick it your color, and your progress to that objective resets. You may override another player's ticked cell, if you have just completed the objective. After a fixed period of time, the player with more completed objectives wins.",
         notes: "No generator currently exists. ilikerandom suggested Thiefgo, a similar variant but using the original generator, with delaying disallowed, and only allowing players to steal an objective a finite number of times.",
         color:"Orange",
@@ -1256,7 +1312,7 @@ let variant_list_data = [
     },
     {
         name: "K3-by-2ngo",
-        credit: "RandomName",
+        credit: "Random Name",
         description: "A variant of symmetric ktango. There are 2 teams of 3 players. Each player on each team routes each other player on their team. So there are 6 games of bingo being played simultaneously. The first team to 75 objectives wins.",
         notes: "Due to the immense skill required to route two bingo boards, communicate with two people, and execute one's own bingo board, all while ticking objectives, and due to the fact that all 6 players must be willing to do so, it is the opinion of this author that while this variant is not physically unplayable, it is practically unplayable.",
         color:"Red",
