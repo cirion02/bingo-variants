@@ -1,0 +1,568 @@
+[
+  [
+    {
+      "name": "Enter 2A",
+      "types": []
+    },
+    {
+      "name": "Enter 2B",
+      "types": []
+    },
+    {
+      "name": "Enter 2C",
+      "types": []
+    },
+    {
+      "name": "(Try to) read the memorial in 2A Start",
+      "types": []
+    },
+    {
+      "name": "Go all the way Left in 2A Start",
+      "types": []
+    },
+    {
+      "name": "Break a wall in 2A",
+      "types": []
+    },
+    {
+      "name": "Read the memorial in Awake",
+      "types": []
+    },
+    {
+      "name": "Go all the way right in 2A Start",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Get a 1-up in 2A",
+      "types": []
+    },
+    {
+      "name": "Get a two-up in 2A",
+      "types": []
+    },
+    {
+      "name": "Get a three-up in 2A",
+      "types": []
+    },
+    {
+      "name": "Get a 1-up using only Intervention berries",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Get 10 berries in 2A",
+      "types": []
+    },
+    {
+      "name": "Get 5 berries in 2A",
+      "types": []
+    },
+    {
+      "name": "Get 15 berries in 2A",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Read the 2A poem",
+      "types": []
+    },
+    {
+      "name": "Talk to Theo in Awake",
+      "types": []
+    },
+    {
+      "name": "Jumpless Intervention",
+      "types": []
+    },
+    {
+      "name": "Get crushed by a dreamblock",
+      "types": []
+    },
+    {
+      "name": "Interact with 17 different lanterns in 2A",
+      "types": []
+    },
+    {
+      "name": "Interact with 6 different lanterns in 2A Start",
+      "types": []
+    },
+    {
+      "name": "Interact with 11 different lanterns in Intervention",
+      "types": []
+    },
+    {
+      "name": "Bounce on 8 different springs in Awake",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "2A all collectables",
+      "types": []
+    },
+    {
+      "name": "2A Full Clear",
+      "types": []
+    },
+    {
+      "name": "ARB 2A",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Beat 2A in 25 dashes",
+      "types": []
+    },
+    {
+      "name": "Complete 2A with a time less than 2:40.000",
+      "types": []
+    },
+    {
+      "name": "2A without speed tech",
+      "types": []
+    },
+    {
+      "name": "Collect 2 berries in 2A",
+      "types": []
+    },
+    {
+      "name": "Get a sub 2 minute 2B",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Old site red heart",
+      "types": []
+    },
+    {
+      "name": "Old site blue + red hearts",
+      "types": []
+    },
+    {
+      "name": "Old-site blue heart",
+      "types": []
+    },
+    {
+      "name": "Reach the mirror in 2A in 1 dash",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Complete 2A",
+      "types": []
+    },
+    {
+      "name": "Complete 2bny%",
+      "types": []
+    },
+    {
+      "name": "2A cassette",
+      "types": []
+    },
+    {
+      "name": "Use all binoculars in 2B",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Grabless 2A",
+      "types": []
+    },
+    {
+      "name": "Grabless 2B",
+      "types": []
+    },
+    {
+      "name": "Grabless 2A Start",
+      "types": []
+    },
+    {
+      "name": "Grabless 2B Start",
+      "types": []
+    },
+    {
+      "name": "Grabless Intervention",
+      "types": []
+    },
+    {
+      "name": "Grabless Awake",
+      "types": []
+    },
+    {
+      "name": "Grabless Combination Lock",
+      "types": []
+    },
+    {
+      "name": "Grabless Dream Altar",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Complete 2A with low friction",
+      "types": []
+    },
+    {
+      "name": "Complete 2B with low friction",
+      "types": []
+    },
+    {
+      "name": "Complete 2B Start with low friction",
+      "types": []
+    },
+    {
+      "name": "Complete 2A Start with low friction",
+      "types": []
+    },
+    {
+      "name": "Complete Intervention with low friction",
+      "types": []
+    },
+    {
+      "name": "Complete Awake with low friction",
+      "types": []
+    },
+    {
+      "name": "Complete Combination Lock with low friction",
+      "types": []
+    },
+    {
+      "name": "Complete Dream Altar with low friction",
+      "types": []
+    },
+    {
+      "name": "2C 1 dream jump",
+      "types": []
+    },
+    {
+      "name": "2A Start, berry 9, no dream blocks",
+      "types": []
+    },
+    {
+      "name": "2A Intervention room 5 dashless",
+      "types": []
+    },
+    {
+      "name": "2B Combination Lock room 3 reach end and return",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Complete 2A in mirror mode",
+      "types": []
+    },
+    {
+      "name": "Invisble 2A",
+      "types": []
+    },
+    {
+      "name": "Invisble 2A Start",
+      "types": []
+    },
+    {
+      "name": "Invisble Intervention",
+      "types": []
+    },
+    {
+      "name": "Invisble Awake",
+      "types": []
+    },
+    {
+      "name": "Complete 2A Start in mirror mode",
+      "types": []
+    },
+    {
+      "name": "Complete Intervention in mirror mode",
+      "types": []
+    },
+    {
+      "name": "Complete Awake in mirror mode",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Complete 2B in mirror mode",
+      "types": []
+    },
+    {
+      "name": "Invisible 2B",
+      "types": []
+    },
+    {
+      "name": "Invisible Dream Altar",
+      "types": []
+    },
+    {
+      "name": "Invisible Combination Lock",
+      "types": []
+    },
+    {
+      "name": "Invisible 2B Start",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Die to Badeline in 2A 20 times",
+      "types": []
+    },
+    {
+      "name": "Die to Badeline in 2B 20 times",
+      "types": []
+    },
+    {
+      "name": "Die to Badeline in 2C 20 times",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Get all coins in Dream Altar",
+      "types": []
+    },
+    {
+      "name": "Reach Old site in PICO-8",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Complete 2A in 2A (hexadecimal) dashes",
+      "types": []
+    },
+    {
+      "name": "Dashless Awake",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Take a selfie with Theo in Awake",
+      "types": []
+    },
+    {
+      "name": "Exhaust all Theo's dialogue in Awake",
+      "types": []
+    },
+    {
+      "name": "2B Start but only touching ground once",
+      "types": []
+    },
+    {
+      "name": "2A Start reach mirror with 1 jump",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Complete 2A without skipping any cutscenes",
+      "types": []
+    },
+    {
+      "name": "Don't skip final cutscene of Intervention",
+      "types": []
+    },
+    {
+      "name": "Don't skip cutscene at the start of Intervention",
+      "types": []
+    },
+    {
+      "name": "All berries in 2A Start (9)",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Complete 2A with zero gravity",
+      "types": []
+    },
+    {
+      "name": "Complete 2B with zero gravity",
+      "types": []
+    },
+    {
+      "name": "2A golden",
+      "types": []
+    },
+    {
+      "name": "Golden 2B",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Complete 2A with Superdash",
+      "types": []
+    },
+    {
+      "name": "Complete 2B with Superdash",
+      "types": []
+    },
+    {
+      "name": "All berries in Intervention (8)",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Do a heart ultra in 2A",
+      "types": []
+    },
+    {
+      "name": "Do a heart ultra in 2B",
+      "types": []
+    },
+    {
+      "name": "Do a heart ultra in 2C",
+      "types": []
+    },
+    {
+      "name": "Complete 2A with dash assist",
+      "types": []
+    },
+    {
+      "name": "Complete 2B with dash assist",
+      "types": []
+    },
+    {
+      "name": "Complete 2C with dash assist",
+      "types": []
+    },
+    {
+      "name": "Complete 2A Start with dash assist",
+      "types": []
+    },
+    {
+      "name": "Complete 2B Start with dash assist",
+      "types": []
+    },
+    {
+      "name": "Complete Intervention with dash assist",
+      "types": []
+    },
+    {
+      "name": "Complete Awake with dash assist",
+      "types": []
+    },
+    {
+      "name": "Complete Combination Lock with dash assist",
+      "types": []
+    },
+    {
+      "name": "Complete Dream Altar with dash assist",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Get the seeded berry in 2A",
+      "types": []
+    },
+    {
+      "name": "All berries in Awake (1)",
+      "types": []
+    },
+    {
+      "name": "Use the binocular in 2A",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Complete 2C with Superdash",
+      "types": []
+    },
+    {
+      "name": "2C low friction",
+      "types": []
+    },
+    {
+      "name": "2C grabless",
+      "types": []
+    },
+    {
+      "name": "Do a little dance with badeline in 2A for 10 secounds",
+      "types": []
+    },
+    {
+      "name": "Do a little dance with badeline in 2B for 10 secounds",
+      "types": []
+    },
+    {
+      "name": "Do a little dance with badeline in 2C for 10 secounds",
+      "types": []
+    },
+    {
+      "name": "Complete 2C with zero gravity",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Get the yellow heart in 2C",
+      "types": []
+    },
+    {
+      "name": "Complete 2C",
+      "types": []
+    },
+    {
+      "name": "Use all binoculars in 2C",
+      "types": []
+    },
+    {
+      "name": "2C golden",
+      "types": []
+    },
+    {
+      "name": "Do coin skip in 2C",
+      "types": []
+    },
+    {
+      "name": "Do coin skip in 2B",
+      "types": []
+    },
+    {
+      "name": "2C with 1 dash crystal",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Get all 3 hearts in Old Site",
+      "types": []
+    },
+    {
+      "name": "Complete 2A 2B & 2C",
+      "types": []
+    },
+    {
+      "name": "See the blue heart in Intervention",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "1000M gem",
+      "types": []
+    },
+    {
+      "name": "Use All binoculars in 1000M (4)",
+      "types": []
+    },
+    {
+      "name": "All Berries in 1000M (6)",
+      "types": []
+    }
+  ]
+]

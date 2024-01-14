@@ -421,7 +421,7 @@ let variant_list_data = [
     {
         name: "2 experts, 1 beginner (2x1b)",
         credit: "Lmjacks, with input from various",
-        descripion: "A variant of blackout in which a team of 2 experts play against a beginner without losing a single objective.",
+        description: "A variant of blackout in which a team of 2 experts play against a beginner without losing a single objective.",
         notes: "This variant must be played on Banana Split progression and must not contain pico objectives longer than \"Reach Old Site in PICO-8\" to remove early skip advantage and PICO-8 rushes. A variation of 2x1b has 2 experts play against any opponent where the number of objectives needed to win is agreed upon prior to the match.",
         color:"Green",
         tags: ["lockout", "blackout"],
@@ -995,6 +995,20 @@ let variant_list_data = [
         max_teams:2,
         min_players_per_team:1,
         max_players_per_team:1
+    },
+    {
+        name: "Oldsitego",
+        credit: "ad",
+        description: "A variant of lockout (or blackout) in which all the objectives are Old Site related",
+        external_links: [{
+            name:"Generator",
+            link:"download-files/oldsitego.json"
+        }],
+        tags:["lockout", "blackout", "custom-generator", "cursed"],
+        min_teams:1,
+        max_teams: null,
+        min_players_per_team:1,
+        max_players_per_team:null
     },
     {
         name: "Artgo",
