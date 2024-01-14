@@ -409,7 +409,7 @@ let variant_list_data = [
     },
     {
         name: "k単語",
-        credit: "RandomName",
+        credit: "Random Name",
         description: "A variant of ktango in which routers communicate with their players in a foreign language.",
         color:"Green",
         tags: ["lockout", "ktango", "cursed"],
@@ -503,7 +503,7 @@ let variant_list_data = [
     },
     {
         name: "Variants (0 Gravity)",
-        credit: "Cirion, Generator by RandomName",
+        credit: "Cirion, Generator by Random Name",
         description: "A variant of lockout in which players play with 0 gravity.",
         notes: "Setting 0 gravity requires use of the Extended Variants mod. A custom generator is used to remove many impossible objectives.",
         color: "Green",
@@ -640,7 +640,7 @@ let variant_list_data = [
     },
     {
         name: "Line Lockout",
-        credit: "RandomName",
+        credit: "Random Name",
         description: "A variant of lockout in which one player attempts to get a single line (5 objectives in a row) and the other player tries to stop them.",
         notes: "Favors the player attempting to block the line.",
         color: "Green",
@@ -711,7 +711,7 @@ let variant_list_data = [
     },
     {
         name: "Bingobuthardtoread",
-        credit: "RandomName",
+        credit: "Random Name",
         description: "A variant of lockout bingo in which objectives in the standard generator are replaced with objectives which require doing the exact same thing, but are significantly harder to understand or parse. As an example, \"10 Berries in 3 Chapters\" could be replaced with \"As many berries as exist in 2A Start, collected in a number of different chapters equal to the number of chapters containing snowballs\".",
         color: "Green",
         external_links:[{
@@ -791,7 +791,7 @@ let variant_list_data = [
     },
     {
         name: "One Way Lockout",
-        credit: "RandomName",
+        credit: "Random Name",
         description: "An unbalanced variant of lockout bingo in which Player A cannot tick objectives that player B has, but Player B can. Whoever has more objectives when all 25 squares are ticked wins.",
         notes:"This directly favors Player B, making it ideal when players have a skill deficit.",
         color:"Green",
@@ -837,7 +837,7 @@ let variant_list_data = [
     },
     {
         name: "Untieredgo",
-        credit: "Epyc, RandomName",
+        credit: "Epyc, Random Name",
         description: "A variant of bingo where objectives are untiered, allowed for ridiculous amounts of synergy, multiple tier 25 objectives, or other silly stuff.",
         notes: "Due to the way probability works, most boards are nondescript and indeed indistinguishable from a normal lockout board. To play this, use the Randomized option on Celeste Bingosync.",
         color:"Green",
@@ -1155,7 +1155,7 @@ let variant_list_data = [
     },
     {
         name: "Tic-Tac-go",
-        credit: "RandomName",
+        credit: "Random Name",
         description: "Two players play on a 3x3 board of 9 mess orders, including 4-length orders like Chests-Books-Towels-Books. If a player completes a line of 3 orders, they win.",
         color:"Orange",
         external_links:[{
@@ -1312,7 +1312,7 @@ let variant_list_data = [
     },
     {
         name: "K3-by-2ngo",
-        credit: "RandomName",
+        credit: "Random Name",
         description: "A variant of symmetric ktango. There are 2 teams of 3 players. Each player on each team routes each other player on their team. So there are 6 games of bingo being played simultaneously. The first team to 75 objectives wins.",
         notes: "Due to the immense skill required to route two bingo boards, communicate with two people, and execute one's own bingo board, all while ticking objectives, and due to the fact that all 6 players must be willing to do so, it is the opinion of this author that while this variant is not physically unplayable, it is practically unplayable.",
         color:"Red",
