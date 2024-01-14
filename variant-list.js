@@ -1002,7 +1002,7 @@ let variant_list_data = [
         description: "A variant of lockout (or blackout) in which all the objectives are Old Site related",
         external_links: [{
             name:"Generator",
-            link:"download-files/oldsitego.json"
+            file:"download-files/oldsitego.json"
         }],
         tags:["lockout", "blackout", "custom-generator", "cursed"],
         min_teams:1,
