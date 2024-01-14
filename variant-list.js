@@ -959,6 +959,17 @@ let variant_list_data = [
         max_players_per_team:1
     },
     {
+        name: "Artgo",
+        credit: "bulletinfi, Epyc independently",
+        description: "On a large bingo board, players complete objectives to make pixel art.",
+        color:"Green",
+        tags:["blackout"],
+        min_teams:1,
+        max_teams:1,
+        min_players_per_team:1,
+        max_players_per_team:null
+    },
+    {
         name: "Celestenet Bingo",
         credit: "April",
         description: "A variant of lockout bingo in which players are in celestenet. Player interactions may or may not be enabled. No clear ruleset has been formalized.",
@@ -1149,17 +1160,6 @@ let variant_list_data = [
         max_teams:2,
         min_players_per_team:1,
         max_players_per_team:1
-    },
-    {
-        name: "Artgo",
-        credit: "bulletinfi, Epyc independently",
-        description: "On a large bingo board, players complete objectives to make pixel art.",
-        color:"Orange",
-        tags:["blackout"],
-        min_teams:1,
-        max_teams:1,
-        min_players_per_team:1,
-        max_players_per_team:null
     },
     {
         name: "Masochistgo",
