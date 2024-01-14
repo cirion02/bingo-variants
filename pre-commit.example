@@ -4,6 +4,7 @@
 
 import execjs
 import sys
+import re
 
 with open(".git/hooks/pre-commit", 'r') as file:
 	this_file = file.read()
@@ -14,7 +15,7 @@ with open("pre-commit.example", 'w') as file:
 with open("variant-list.js", 'r', encoding='utf-8') as file:
 	data = file.read()
 
-ctx = execjs.compile(data)
+ctx = execjs.compile(re.sub(r'[^\x00-\x7F]', '?', data))
 
 data = ctx.eval("variant_list_data")
 

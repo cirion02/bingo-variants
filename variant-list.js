@@ -1000,6 +1000,7 @@ let variant_list_data = [
         name: "Oldsitego",
         credit: "ad",
         description: "A variant of lockout (or blackout) in which all the objectives are Old Site related",
+        color: "Green",
         external_links: [{
             name:"Generator",
             file:"download-files/oldsitego.json"
