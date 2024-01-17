@@ -889,7 +889,7 @@ let variant_list_data = [
         name: "Community Generator",
         credit: "Cookie, with objectives suggested by about 20 different people",
         description: "A variant of lockout (or blackout) bingo in which players play with an entirely new set of objectives, created by the community.",
-        notes: "Created more as a social experiment than an actual bingo variant. Has only ever been played blackout. Use the Randomized setting to generate the board.",
+        notes: "Created more as a social experiment than an actual bingo variant. Use the Randomized setting to generate the board.",
         color:"Green",
         external_links:[{
             name:"Generator",
@@ -1105,7 +1105,7 @@ let variant_list_data = [
         name: "Dr. Mario Bingo",
         credit: "metagloria",
         description: "Each player gets a line of 5 objectives. Completing an objective adds another objective to one's opponent, and vice versa. Whoever finishes all of their objectives first wins.",
-        color:"Orange",
+        color:"Green",
         tags:[],
         min_teams:2,
         max_teams:2,
