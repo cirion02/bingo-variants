@@ -1158,7 +1158,7 @@ let variant_list_data = [
         name: "Tic-Tac-go",
         credit: "Random Name",
         description: "Two players play on a 3x3 board of 9 mess orders, including 4-length orders like Chests-Books-Towels-Books. If a player completes a line of 3 orders, they win.",
-        color:"Orange",
+        color:"Green",
         external_links:[{
             name:"Generator",
             file:"download-files/tic_tac_go.json",
