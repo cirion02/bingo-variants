@@ -120,7 +120,7 @@ let variant_list_data = [
         name: "Sinkout",
         credit: "metagloria, Cirion, Dragon",
         description: "A variant of blackout. Two players pick three ships (a 3x1, 2x1, and 2x1 contiguous block of objectives) on their own bingo board. These ships are hidden from the opponent. Players sit in the same VC, and attempt to complete objectives on their opponent's board to discover and sink all three of their opponent's ships. For exach objective completed, the opponent must confirm whether that objective was on a ship.",
-        color:"Purple",
+        color:"Blue",
         tags:["blackout"],
         min_teams:2,
         max_teams:2,
