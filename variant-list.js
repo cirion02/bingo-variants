@@ -1386,7 +1386,7 @@ let variant_list_data = [
             name:"Rules & Guidance",
             link:"https://docs.google.com/document/d/1ewq49dA_MngnBtPSdZxYvv4We19p1ftEHmWGiK7H4dc/",
         }],
-        tags:["Lockout", "custom-generator", "difficult", "long"],
+        tags:["lockout", "custom-generator", "difficult", "long"],
         min_teams:1,
         max_teams:null,
         min_players_per_team:1,
