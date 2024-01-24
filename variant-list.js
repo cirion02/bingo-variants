@@ -1372,4 +1372,24 @@ let variant_list_data = [
         min_players_per_team:1,
         max_players_per_team:1
     },
+    {
+        name: "Pocket Longo",
+        credit: "PocketWraith",
+        description: "A custom longo generator featuring various knowledge checks in addition to in-game variants and longer objectives.",
+        color:"Blue",
+        external_links:[
+        {
+            name:"Generator",
+            file:"download-files/PocketLongo.json",
+        },
+        {
+            name:"Rules & Guidance",
+            link:"https://docs.google.com/document/d/1ewq49dA_MngnBtPSdZxYvv4We19p1ftEHmWGiK7H4dc/",
+        }],
+        tags:["Lockout", "custom-generator", "difficult", "long"],
+        min_teams:1,
+        max_teams:null,
+        min_players_per_team:1,
+        max_players_per_team:null
+    }
 ]
