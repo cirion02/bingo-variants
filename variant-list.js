@@ -1312,7 +1312,7 @@ let variant_list_data = [
         max_players_per_team:null
     },
     {
-        name: "K3-by-2ngo",
+        name: "Kt3-by-2ngo",
         credit: "Random Name",
         description: "A variant of symmetric ktango. There are 2 teams of 3 players. Each player on each team routes each other player on their team. So there are 6 games of bingo being played simultaneously. The first team to 75 objectives wins.",
         notes: "Due to the immense skill required to route two bingo boards, communicate with two people, and execute one's own bingo board, all while ticking objectives, and due to the fact that all 6 players must be willing to do so, it is the opinion of this author that while this variant is not physically unplayable, it is practically unplayable.",
