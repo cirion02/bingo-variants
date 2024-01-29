@@ -1185,7 +1185,7 @@ let variant_list_data = [
         credit: "metagloria",
         description: "A variant of lockout bingo in which each player has their own board. A third, neutral player (the relayer) enters both rooms. Each time an objective is ticked on one board, the relayer ticks the objective that is in the same position on the other team's board. First to 13 wins.",
         notes: "Has been suggested in a ktango format, desynktango.",
-        color:"Orange",
+        color:"Green",
         tags:["lockout", "ktango", "cursed"],
         min_teams:3,
         max_teams:3,
