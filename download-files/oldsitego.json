@@ -63,6 +63,10 @@
     {
       "name": "Get 15 berries in 2A",
       "types": []
+    },
+    {
+      "name": "Interact with 4 different lanterns in 1000M in 7B",
+      "types": []
     }
   ],
   [
@@ -115,7 +119,7 @@
   ],
   [
     {
-      "name": "Beat 2A in 25 dashes",
+      "name": "Beat 2A in 26 dashes or less",
       "types": []
     },
     {
@@ -313,15 +317,15 @@
   ],
   [
     {
-      "name": "Die to Badeline in 2A 20 times",
+      "name": "Die to Badeline in 2A 15 times",
       "types": []
     },
     {
-      "name": "Die to Badeline in 2B 20 times",
+      "name": "Die to Badeline in 2B 15 times",
       "types": []
     },
     {
-      "name": "Die to Badeline in 2C 20 times",
+      "name": "Die to Badeline in 2C 15 times",
       "types": []
     }
   ],
@@ -337,7 +341,7 @@
   ],
   [
     {
-      "name": "Complete 2A in 2A (hexadecimal) dashes",
+      "name": "Complete 2A in 2A (hexadecimal) dashes or less",
       "types": []
     },
     {
@@ -356,10 +360,6 @@
     },
     {
       "name": "2B Start but only touching ground once",
-      "types": []
-    },
-    {
-      "name": "2A Start reach mirror with 1 jump",
       "types": []
     }
   ],
@@ -475,6 +475,10 @@
     {
       "name": "Use the binocular in 2A",
       "types": []
+    },
+    {
+      "name": "Grabless 1000M",
+      "types": []
     }
   ],
   [
@@ -535,6 +539,14 @@
     {
       "name": "2C with 1 dash crystal",
       "types": []
+    },
+    {
+      "name": "Use a dream block in 8A, 8B & 8C",
+      "types": []
+    },
+    {
+      "name": "Use a dream block in Farewell",
+      "types": []
     }
   ],
   [
@@ -547,7 +559,7 @@
       "types": []
     },
     {
-      "name": "See the blue heart in Intervention",
+      "name": "See the 2A blue heart that is not in Start",
       "types": []
     }
   ],
