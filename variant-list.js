@@ -1365,7 +1365,7 @@ let variant_list_data = [
         credit: "ArrowBounce",
         description: "An identical ruleset to Chessgo, except played on a board of Go.",
         notes: "Use the Individual Berry Bingo generator. Playing with cheat mode is recommended. A board size of 9 is recommended for readability. ",
-        color:"Orange",
+        color:"Green",
         tags:["lockout", "cursed"],
         min_teams:2,
         max_teams:2,
