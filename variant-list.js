@@ -1366,6 +1366,10 @@ let variant_list_data = [
         description: "An identical ruleset to Chessgo, except played on a board of Go.",
         notes: "Use the Individual Berry Bingo generator. Playing with cheat mode is recommended. A board size of 9 is recommended for readability. ",
         color:"Green",
+        external_links:[{
+            name:"Generator",
+            file:"download-files/individual_berry_bingo.json",
+        }],
         tags:["lockout", "cursed"],
         min_teams:2,
         max_teams:2,
