@@ -1134,7 +1134,7 @@ let variant_list_data = [
         color:"Orange",
         external_links:[{
             name:"Detailed Ruleset",
-            link:"https://discord.com/channels/529677942393929749/689529939975864453/1023348808836464681",
+            link:"https://discord.com/channels/529677942393929749/689529939975864453/1055112961833848852",
         }],
         tags:["cursed"],
         min_teams:2,
