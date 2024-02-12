@@ -48,7 +48,10 @@ function search(random){
 
     let name = document.getElementById("name-search").value.toLowerCase().trim();
     if (name != "") {
-        queryString += `n:${name}+`;
+        let words = name.split(' ');
+        for(let word of words){
+            queryString += `n:${word}+`;
+        }
     }
 
     if (random) {
