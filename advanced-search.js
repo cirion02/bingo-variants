@@ -2,8 +2,12 @@
 //window.location = 
 const COLORS = ["white", "purple", "blue", "green", "orange", "red"];
 
-function search(random){
+function search(mode){
     let queryString = "search-result.html?q=";
+
+    if (mode == "metabingo"){
+        queryString = "metabingo.html?q=";
+    }
 
     let colorString = "";
     for (let c of COLORS){
@@ -54,7 +58,7 @@ function search(random){
         }
     }
 
-    if (random) {
+    if (mode == 'random') {
         queryString += `random:true+`;
     }
 

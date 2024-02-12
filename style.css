@@ -85,3 +85,22 @@ h3 {
     width:100%;
     padding-bottom: 20px;
 }
+
+.bingo-grid{
+    display: grid;
+    grid-template-columns: repeat(5, 152px);
+    grid-template-rows: repeat(5, 152px);
+}
+
+.grid-slot{
+    outline: 2px solid;
+    outline-color: rgb(115, 106, 231);
+    width: 150px;
+    height: 150px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+}
