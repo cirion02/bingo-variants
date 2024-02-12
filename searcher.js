@@ -30,7 +30,7 @@ function calcPlayerCounts(variant, target, allowUnbalanced){
     return false;
 }
 
-function fillSearch(){
+function getVariantList(){
     queryString = window.location.search;
     urlParams = new URLSearchParams(queryString);
     query = urlParams.get("q");
@@ -89,6 +89,13 @@ function fillSearch(){
             result.push(variant);
         }
     }
+
+    return result;
+}
+
+function fillSearch(){
+    
+    result = getVariantList();
 
     if (random) {
         result = [result[Math.floor(Math.random()*result.length)]];
