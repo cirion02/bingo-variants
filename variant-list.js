@@ -37,7 +37,7 @@ let variant_list_data = [
     },
     {
         name: "Fog of War",
-        credit: "Dragon512, plugin developed by Cirion, Rhuan, ported into Celeste Bingosync by crab",
+        credit: "Dragon, plugin developed by Cirion, Rhuan, ported into Celeste Bingosync by crab",
         description: "A variant of blackout (teams or solo) in which only the lowest-tier objective on the 5x5 board is revealed at the start, and as players tick objectives on the bingo board, adjacent objectives are revealed. Standard blackout rules apply.",
         color:"White",
         tags:["blackout"],
@@ -1231,7 +1231,7 @@ let variant_list_data = [
     },
     {
         name: "Trackmania Bingo",
-        credit: "Cirion, Generator by creep.",
+        credit: "Cirion, Generator by creep",
         description: "A bingo board with 25 ILs (or checkpoints) on it is created. 2 teams fight to get one or two complete lines on the board. To tick off a square for the first time, a player must beat that IL, and note their time for completing it. Any player on either team can then steal that square by completing the IL in a faster time, also lowering the time needed to steal that square again.",
         notes: "Use the Randomized setting to create a board, not the srlv5 setting. There is no way of keeping track of IL times without recording the time externally.",
         color:"Orange",
@@ -1393,6 +1393,252 @@ let variant_list_data = [
         tags:["lockout", "custom-generator", "difficult", "long"],
         min_teams:1,
         max_teams:null,
+        min_players_per_team:1,
+        max_players_per_team:null
+    },
+    {
+        name: "Dementiago",
+        credit: "ilikerandom, named 'dementiago' by ad",
+        description: "A variant of blackout in which each objective ticked hides adjacent objectives. Players must instantly tick an objective they believe to have: if that objective is not something they have, they must untick the objective and wait in place for 1 minute. Standard blackout rules apply.",
+        notes: "No such plugin currently exists.",
+        color:"Red",
+        tags:["blackout", "cursed", "unplayable"],
+        min_teams:1,
+        max_teams:null,
+        min_players_per_team:1,
+        max_players_per_team:null
+    },
+    {
+        name: "Kryptingo",
+        credit: "bulletinfi",
+        description: "A more strict version of ktango in which routers must speak in cryptic clues.",
+        color:"Orange",
+        tags:["lockout", "ktango", "cursed"],
+        min_teams:2,
+        max_teams:2,
+        min_players_per_team:2,
+        max_players_per_team:2
+    },
+    {
+        name: "Signalgo",
+        credit: "idontexist",
+        description: "An unbalanced variant of lockout bingo in which Player A must signal an objective they have for an agreed amount of time before they get the objective. Player B can steal signaled objectives within the timeframe that is agreed.", 
+        color:"Orange",
+        tags:["lockout"], 
+        min_teams:2,
+        max_teams:2,
+        min_players_per_team:1,
+        max_players_per_team:1
+    },
+    {
+        name: "Disconnectedgo",
+        credit: "Morraconda",
+        description: "A variant of lockout in which players cannot tick any objective orthogonally adjacent to an objective they have already ticked. If a player does not have any valid ticks, any objectives may be ticked by that player. First to 13 wins. ",
+        color:"Orange",
+        tags:["lockout"],
+        min_teams:2,
+        max_teams:2,
+        min_players_per_team:1,
+        max_players_per_team:1
+    },
+    {
+        name: "How to Lose at Bingo (HTLAB)",
+        credit: "Random Name",
+        description: "An variant of lockout in which both players get a random debuff.",
+        notes: "This variant can also be used to balance skill gaps by having the better player play with a debuff and the other play standard lockout.",
+        color:"Green",
+        tags:["lockout", "cursed"],
+        min_teams:2,
+        max_teams:2,
+        min_players_per_team:1,
+        max_players_per_team:1
+    },
+    {
+        name: "Bingo B-Side",
+        credit: "FlyingLudicolo",
+        description: "A variant of lockout in which every objective is altered so that the objective has to be completed in a specific way or changed to be a more difficult version.",
+        notes: "No such generator exists.",
+        color:"Red",
+        tags:["lockout", "custom-generator", "cursed", "difficult", "unplayable"],
+        min_teams:2,
+        max_teams:2,
+        min_players_per_team:1,
+        max_players_per_team:1
+    },
+    {
+        name: "Bingo but it's actually bingo",
+        credit: "ArrowBounce",
+        description: "Each player (spectator) generates a bingo board during a livestreamed event. Players (spectator) tick objectives when a player (on stream) completes an objective on the player's (spectator) board. First to reach a pre-determined goal (e.g. 1 line, 3 line, blackout) wins.",
+        color:"Red",
+        tags:["blackout", "cursed"],
+        min_teams:1,
+        max_teams:null,
+        min_players_per_team:1,
+        max_players_per_team:1
+    },
+    {
+        name: "Soulreadgo",
+        credit: "Cirion, Random Name independently",
+        description: "A variant of lockout in which players may call a soulread and tick an objective they think their opponent is delaying. If correct, you keep the tick without having to complete the objective yourself, otherwise the opponent gets the tick.",
+        notes: "A variation forces all objectives completed to be delayed by an agreed amount of time. Soulreadgo has been suggested in a ktango format, soulreadktango, with a time penalty for an incorrect soulread.", 
+        color:"Orange",
+        tags:["lockout", "ktango"],
+        min_teams:2,
+        max_teams:2,
+        min_players_per_team:1,
+        max_players_per_team:2
+    },
+    {
+        name: "Pictionary Ktango",
+        credit: "jan",
+        description: "A more strict version of ktango in which routers must draw pictures without using any words.",
+        color:"Green",
+        tags:["lockout", "ktango", "blackout"],
+        min_teams:1,
+        max_teams:null,
+        min_players_per_team:2,
+        max_players_per_team:2
+    },
+    {
+        name: "One word Ktango",
+        credit: "Random Name",
+        description: "A more strict version of ktango which routers may say exactly one word per objective tick.",
+        color:"Orange",
+        tags:["lockout", "ktango", "cursed"],
+        min_teams:2,
+        max_teams:2,
+        min_players_per_team:2,
+        max_players_per_team:2
+    },
+    {
+        name: "Wheel of Fortune",
+        credit: "rhelmot",
+        description: "A variant of lockout in which every character is replaced with *. Every n seconds, players may submit one character for an individual square to reveal those characters. If a player ticks an objective they don't have, the tick goes to the opponent.",
+        notes: "No such plugin currently exists. Creator suggests combining this gamemode with bingobuthardtoread.",
+        color:"Red",
+        external_links:[{
+            name:"Generator",
+            file:"download-files/bingobuthardtoread.json"
+        }],
+        tags:["lockout", "custom-generator", "cursed", "unplayable"],
+        min_teams:2,
+        max_teams:2,
+        min_players_per_team:1,
+        max_players_per_team:1
+    },
+    {
+        name: "Fog Reveal or Scoutout",
+        credit: "PocketWraith",
+        description: "A variant of fog of war with the goal to achieve full board vision.",
+        color:"Blue",
+        tags:["blackout"],
+        min_teams:1,
+        max_teams:null,
+        min_players_per_team:1,
+        max_players_per_team:null
+    },
+    {
+        name: "Capture the Square",
+        credit: "creep",
+        description: "Two players play on five boards forming a plus sign (+). There are two phases to this game: the Control phase and the Capture phase. During the Control phase, the outer boards are played with Line Control (Row Control for left and right boards, Column Control for the top and bottom boards). For each line controlled, the adjacent square on the central board becomes \"protected\" (opponent cannot capture). Players can choose to complete and tick these protected squares at any moment. The Capture phase begins when all outer boards have no more free rows. All remaining objectives on the central board become unprotected and is played as a modified cheat mode lockout game from a fresh save file. First to tick 13 objectives on the central board wins.",
+        notes: "If a corner square is doubly protected by the same player, the tick goes to the player without having to complete the objective. If protected by both, then the square can be ticked by either player. Extremely difficult to manage 5 boards concurrently.",
+        color:"Red",
+        tags:["lockout", "cursed", "difficult", "unplayable"],
+        min_teams:2,
+        max_teams:2,
+        min_players_per_team:1,
+        max_players_per_team:null
+    },
+    {
+        name: "Sunny Reveal", 
+        credit: "Random Name, named 'sunny reveal' by OliviaPG",
+        description: "A variant of blackout in which objectives are ticked or orthogonally touching a ticked objective. Ticked objectives must be orthogonally connected starting from (and including) the T1 objective by the end of the game.",
+        color:"Green",
+        tags:["blackout"],
+        min_teams:1,
+        max_teams:null,
+        min_players_per_team:1,
+        max_players_per_team:null
+    },
+    {
+        name: "Strawberry Jam Bingo",
+        credit: "Tntgobang, maintained by Tntgobang, Nene22, creep, Cookie",
+        description: "A variant of lockout bingo played on the 2023 Strawberry Jam mod.",
+        notes: "There is a known bug with the custom progression mod that says the mod assembly failed to load. You can safely ignore this error. Do not use BingoUI with Strawberry Jam Bingo.",
+        color:"Green",
+        external_links:[
+            {
+                name: "Custom Progression",
+                link: "https://gamebanana.com/mods/495570"
+            },
+            {
+                name: "Ruleset",
+                link: "https://discord.com/channels/529677942393929749/689529939975864453/1207015327008038962"
+            },
+            {
+                name: "Generator",
+                file: "download-files/SJ.json"
+            }
+        ],
+        tags:["lockout", "custom-generator"],
+        min_teams:2,
+        max_teams:2,
+        min_players_per_team:1,
+        max_players_per_team:1
+    },
+    {
+        name: "Alphabetgo",
+        credit: "ArrowBounce",
+        description: "A more strict version of ktango in which routers have to start each word/sentence with the letter following the letter that started the previous one.",
+        color:"Orange",
+        tags:["lockout", "ktango", "cursed"],
+        min_teams:2,
+        max_teams:2,
+        min_players_per_team:2,
+        max_players_per_team:2
+    },
+    {
+        name: "Control Swap",
+        credit: "creep",
+        description: "A variant of lockout in which players switch control schemes and binds.",
+        notes: "A study of this style took place during November 2023.",
+        color:"Green",
+        tags:["lockout", "cursed", "difficult"],
+        min_teams:2,
+        max_teams:2,
+        min_players_per_team:1,
+        max_players_per_team:1
+    },
+    {
+        name: "Cluelessgo",
+        credit: "ilikerandom",
+        description: "A variant of lockout (2v2) but teammates are not allowed to communicate.",
+        color:"Orange",
+        tags:["lockout"],
+        min_teams:2,
+        max_teams:2,
+        min_players_per_team:2,
+        max_players_per_team:2
+    },
+    {
+        name: "Guesswork",
+        credit: "bulletinfi, named 'guesswork' by creep",
+        description: "A variant of blackout in which the board is not visible to the player. Using Bingoclient's autoclaim feature, players keep track of the amount of times \"objective x is claimable\". Play until n objectives.",
+        color:"Orange",
+        tags:["blackout", "cursed"],
+        min_teams:1,
+        max_teams:null,
+        min_players_per_team:1,
+        max_players_per_team:null
+    },
+    {
+        name: "Bingo with Stream Sniping",
+        credit: "bulletinfi",
+        description: "A variant of lockout in which players can watch each other's streams.",
+        color:"Orange",
+        tags:["lockout"],
+        min_teams:2,
+        max_teams:2,
         min_players_per_team:1,
         max_players_per_team:null
     }

@@ -1,0 +1,249 @@
+[
+	[
+		{"name": "Complete Forest Path", "types": []},
+		{"name": "Complete Azure Caverns", "types": []},
+		{"name": "Complete Loopy Lagoon", "types": []},
+		{"name": "Complete Driveway", "types": []},
+		{"name": "Complete Treehive", "types": []},
+		{"name": "All Berries in Azure Caverns (2)", "types": ["berries"]}
+	],
+	[
+		{"name": "Grabless Forest Path", "types": ["grabless"]},
+		{"name": "Grabless Azure Caverns", "types": ["grabless"]},
+		{"name": "Grabless Driveway", "types": ["grabless"]},
+		{"name": "Complete Rose Garden", "types": []},
+		{"name": "Complete The Squeeze", "types": []},
+		{"name": "All Berries in Forest Path (4)", "types": ["berries"]},
+		{"name": "All Berries in Driveway (3)", "types": ["berries"]},
+		{"name": "All Berries in The Squeeze (2)", "types": ["berries"]}
+	],
+	[
+		{"name": "Pet Bamboo Lobby Cat", "types": ["cat"]},
+		{"name": "2 Levels Grabless", "types": ["grabless"]},
+		{"name": "Complete Collapsing Skyline", "types": []},
+		{"name": "Complete Over the City", "types": []},
+		{"name": "All Berries in Loopy Lagoon (3)", "types": ["berries"]},
+		{"name": "All Berries in Collapsing Skyline (3)", "types": ["berries"]},
+		{"name": "All Berries in Treehive (2)", "types": ["berries"]},
+		{"name": "5 Berries", "types": ["berries"]}
+	],
+	[
+		{"name": "Pet Troposphere Cat", "types": ["cat"]},
+		{"name": "Pet Strawberry Orchard Cat", "types": ["cat"]},
+		{"name": "Complete Troposphere", "types": []},
+		{"name": "Complete Switchtube Vista", "types": []},
+		{"name": "Complete A Gift From the Stars", "types": []},
+		{"name": "All Berries in Troposphere (1)", "types": ["berries"]}
+	],
+	[
+		{"name": "Intro car house in Seeing is Believing", "types": []},
+		{"name": "Key Secret in paint", "types": []},
+		{"name": "Complete Strawberry Orchard", "types": []},
+		{"name": "Complete Coresaken City", "types": []},
+		{"name": "All Berries in Over the City (3)", "types": ["berries"]},
+		{"name": "All Berries in Potential for Anything (3)", "types": ["berries"]},
+		{"name": "All Berries in paint (4)", "types": ["berries"]},
+		{"name": "All Berries in Switchtube Vista (5)", "types": ["berries"]}
+	],
+	[
+		{"name": "Pet 3 Cats", "types": ["cat"]},
+		{"name": "Complete Potential for Anything", "types": []},
+		{"name": "Complete paint", "types": []},
+		{"name": "All Berries in A Gift From the Stars (5)", "types": ["berries"]},
+		{"name": "All Berries in Strawberry Orchard (5)", "types": ["berries"]},
+		{"name": "All Berries in Coresaken City (3)", "types": ["berries"]},
+		{"name": "10 Berries", "types": ["berries"]},
+		{"name": "10 Beginner Berries", "types": ["berries"]}
+	],
+	[
+		{"name": "Interract Wtih All Benches in Beginner Lobby", "types": []},
+		{"name": "Pet Crab Lobby Cat", "types": ["cat"]},
+		{"name": "Pet Frosted Fragments Cat", "types": ["cat"]},
+		{"name": "5 Hearts", "types": ["hearts"]},
+		{"name": "Complete Seeing is Believing", "types": []},
+		{"name": "Complete Soap", "types": []},
+		{"name": "Complete Dropzle", "types": []},
+		{"name": "All Berries in Seeing is Believing (1)", "types": ["berries"]},
+		{"name": "All Berries in Cassette Cliffs (2)", "types": ["berries"]}
+	],
+	[
+		{"name": "Seeing is Believing Single-Player Mode", "types": []},
+		{"name": "6 Beginner Hearts", "types": ["hearts"]},
+		{"name": "Complete Midnight Spire", "types": []},
+		{"name": "Complete Fifth Dimension", "types": []},
+		{"name": "All Berries in Midnight Spire (4)", "types": ["berries"]},
+		{"name": "All Berries in Dropzle (5)", "types": ["berries"]},
+		{"name": "5 Berries in 2 Maps", "types": ["berries"]}
+	],
+	[
+		{"name": "Pet Blueberry Bay Lobby Cat", "types": ["cat"]},
+		{"name": "Pet 5 Cats", "types": ["cat"]},
+		{"name": "Complete Cassette Cliffs", "types": []},
+		{"name": "Complete Sleeping Under Stars", "types": []},
+		{"name": "Complete Frosted Fragments", "types": []},
+		{"name": "All Berries in Soap (5)", "types": ["berries"]},
+		{"name": "All Berries in Sleeping Under Stars (1)", "types": ["berries"]},
+		{"name": "All Berries in Frosted Fragments (2)", "types": ["berries"]},
+		{"name": "All Berries in Low-G Botany (3)", "types": ["berries"]}
+	],
+	[
+		{"name": "Pet Intermediate Lobby Cat", "types": ["cat"]},
+		{"name": "Grabless Cassette Cliffs", "types": ["grabless"]},
+		{"name": "Reach 'Basin' in Blueberry Bay", "types": ["heartside"]},
+		{"name": "Complete Low-G Botany", "types": []},
+		{"name": "Complete Deep Blue", "types": []},
+		{"name": "Complete Pointless Machines", "types": []},
+		{"name": "All Berries in Deep Blue (3)", "types": ["berries"]},
+		{"name": "All Berries in Pointless Machines (2)", "types": ["berries"]},
+		{"name": "15 Berries", "types": ["berries"]}
+	],
+	[
+		{"name": "15 Beginner Berries", "types": ["berries"]},
+		{"name": "Grabless Low-G Botany", "types": ["grabless"]},
+		{"name": "Complete Midnight Monsoon", "types": []},
+		{"name": "All Berries in Honeyzip Inc. (3)", "types": ["berries"]},
+		{"name": "All Berries in Supernautica (2)", "types": ["berries"]},
+		{"name": "5 Intermediate Berries", "types": ["berries"]}
+	],
+	[
+		{"name": "Use all 5 keys in Honeyzip Inc.", "types": []},
+		{"name": "Reach 'Tranquility' in Blueberry Bay", "types": ["heartside"]},
+		{"name": "Complete Honeyzip Inc.", "types": []},
+		{"name": "Complete Supernautica", "types": []},
+		{"name": "All Berries in Midnight Monsoon (3)", "types": ["berries"]},
+		{"name": "5 Berries in 2 Lobbies", "types": ["berries"]}
+	],
+	[
+		{"name": "Pet 7 Cats", "types": ["cat"]},
+		{"name": "Complete Sea of Soup", "types": []},
+		{"name": "Complete Vertigo", "types": []},
+		{"name": "Complete The Tower", "types": []},
+		{"name": "Complete Pufferfish Transportation Co.", "types": []},
+		{"name": "All Berries in The Tower (3)", "types": ["berries"]},
+		{"name": "20 Berries", "types": ["berries"]},
+		{"name": "5 Berries in 3 Maps", "types": ["berries"]}
+	],
+	[
+		{"name": "Sea of Soup dashless", "types": []},
+		{"name": "Reach 'Jade' in Blueberry Bay", "types": ["heartside"]},
+		{"name": "4 Intermediate Hearts", "types": ["hearts"]},
+		{"name": "All Berries in Sea of Soup (5)", "types": ["berries"]},
+		{"name": "All Berries in Pufferfish Transportation Co. (5)", "types": ["berries"]},
+		{"name": "20 Beginner Berries", "types": ["berries"]}
+	],
+	[
+		{"name": "10 Hearts", "types": ["hearts"]},
+		{"name": "9 Beginner Hearts", "types": ["hearts"]},
+		{"name": "Complete In Filtration", "types": []},
+		{"name": "Complete Construction Conundrum", "types": []},
+		{"name": "Complete Lethal Laser Laboratory", "types": ["advanced"]},
+		{"name": "10 Intermediate Berries", "types": ["berries"]},
+		{"name": "10 Berries in 2 Lobbies", "types": ["berries"]},
+		{"name": "Pet Cloud Lobby Cat", "types": ["advanced","cat"]},
+		{"name": "Pet Cellar Lobby Cat", "types": ["advanced","cat"]},
+		{"name": "1 Advanced Map", "types": ["advanced"]}
+	],
+	[
+		{"name": "Reach 'Overgrowth' in Blueberry Bay", "types": ["heartside"]},
+		{"name": "Complete EAT GIRL", "types": []},
+		{"name": "Complete Square the Circle", "types": []},
+		{"name": "Complete Temple of a Thousand Skies", "types": []},
+		{"name": "Complete Golden Dawn", "types": ["advanced"]},
+		{"name": "All Berries in EAT GIRL (2)", "types": ["berries"]},
+		{"name": "All Berries in In Filtration (5)", "types": ["berries"]},
+		{"name": "All Berries in Construction Conundrum (2)", "types": ["berries"]},
+		{"name": "All Berries in Temple of a Thousand Skies (4)", "types": ["berries"]},
+		{"name": "Royal Pizza room in Starlight Station", "types": ["advanced"]}
+	],
+	[
+		{"name": "Complete Starry Ruins", "types": ["advanced"]},
+		{"name": "Complete Jellyfish Sanctum", "types": ["advanced"]},
+		{"name": "Complete Forest Rush", "types": ["advanced"]},
+		{"name": "Complete Toggle Theory", "types": ["advanced"]},
+		{"name": "All Berries in Square the Circle (5)", "types": ["berries"]},
+		{"name": "All Berries in Lethal Laser Laboratory (1)", "types": ["berries"]},
+		{"name": "All Berries in Jellyfish Sanctum (1)", "types": ["berries"]},
+		{"name": "Reach OWO Room in Square the Circle", "types": []}
+	],
+	[
+		{"name": "Interract Wtih All Benches in Intermediate Lobby", "types": []},
+		{"name": "Reach 'Harbor' in Blueberry Bay", "types": ["heartside"]},
+		{"name": "Complete Sands of Time", "types": ["advanced"]},
+		{"name": "Complete Lost Woods", "types": ["advanced"]},
+		{"name": "Complete Tectonic Trenches", "types": ["advanced"]},
+		{"name": "Complete Attack of the Clone", "types": ["advanced"]},
+		{"name": "Complete Thinking with Portals", "types": ["advanced"]},
+		{"name": "All Berries in Tectonic Trenches (2)", "types": ["advanced","berries"]},
+		{"name": "All Berries in Golden Dawn (3)", "types": ["advanced","berries"]},
+		{"name": "All Berries in Forest Rush (3)", "types": ["advanced","berries"]},
+		{"name": "All Berries in Belated Valentine's Day (2)", "types": ["advanced","berries"]}
+	],
+	[
+		{"name": "Pet 9 Cats", "types": ["cat"]},
+		{"name": "Reach 'Phloem' in Raspberry Roots", "types": ["heartside"]},
+		{"name": "Complete Slime Time!", "types": ["advanced"]},
+		{"name": "Complete Java's Crypt", "types": ["advanced"]},
+		{"name": "Complete Rightside-Down Cavern", "types": ["advanced"]},
+		{"name": "All Berries in Sands of Time (3)", "types": ["advanced","berries"]},
+		{"name": "All Berries in Slime Time! (3)", "types": ["advanced","berries"]},
+		{"name": "All Berries in Attack of the Clone (1)", "types": ["advanced","berries"]},
+		{"name": "All Berries in Toggle Theory (3)", "types": ["advanced","berries"]},
+		{"name": "All Berries in Superstructure (1)", "types": ["advanced","berries"]},
+		{"name": "30 Berries", "types": ["berries"]}
+	],
+	[
+		{"name": "Interract Wtih All Benches in Advanced Lobby", "types": ["advanced"]},
+		{"name": "Pet Blueberry Bay Cat", "types": ["heartside","cat"]},
+		{"name": "Pet Starlight Station Cat", "types": ["advanced","cat"]},
+		{"name": "Pet Rightside-Down Cavern Cat", "types": ["advanced","cat"]},
+		{"name": "Complete Blueberry Bay", "types": ["heartside"]},
+		{"name": "6 Intermediate Hearts", "types": ["hearts"]},
+		{"name": "Complete Belated Valentine's Day", "types": ["advanced"]},
+		{"name": "All Berries in Synapse (1)", "types": ["advanced","berries"]},
+		{"name": "All Berries in Thinking with Portals (3)", "types": ["advanced","berries"]},
+		{"name": "All Berries in Rightside-Down Cavern (3)", "types": ["advanced","berries"]},
+		{"name": "15 Intermediate Berries", "types": ["berries"]},
+		{"name": "5 Advanced Berries", "types": ["advanced","berries"]}
+	],
+	[
+		{"name": "Reach 'Mycelium' in Raspberry Roots", "types": ["heartside"]},
+		{"name": "Complete Undergrowth", "types": ["advanced"]},
+		{"name": "Complete Superstructure", "types": ["advanced"]},
+		{"name": "Complete Starlight Station", "types": ["advanced"]},
+		{"name": "Complete Dusk City", "types": ["advanced"]},
+		{"name": "Complete Synapse", "types": ["advanced"]},
+		{"name": "Complete The Lab", "types": ["advanced"]},
+		{"name": "All Berries in Lost Woods (1)", "types": ["advanced","berries"]},
+		{"name": "All Berries in Java's Crypt (5)", "types": ["advanced","berries"]}
+	],
+	[
+		{"name": "2 Advanced Hearts", "types": ["advanced","hearts"]},
+		{"name": "Complete Bee Berserk", "types": ["advanced"]},
+		{"name": "Complete Raindrops on Roses", "types": ["advanced"]},
+		{"name": "Complete The Tower (XVI)", "types": ["advanced"]},
+		{"name": "All Berries in Bee Berserk (1)", "types": ["advanced","berries"]},
+		{"name": "All Berries in Starlight Station (3)", "types": ["advanced","berries"]},
+		{"name": "All Berries in The Lab (3)", "types": ["advanced","berries"]},
+		{"name": "5 Berries in 3 Lobbies", "types": ["berries"]}
+	],
+	[
+		{"name": "Talk to Theo in BVD ( After final room )", "types": ["advanced"]},
+		{"name": "Pet Mango Mesa First Cat", "types": ["heartside","advanced","cat"]},
+		{"name": "Complete Call of the Void", "types": ["advanced"]},
+		{"name": "All Berries in Call of the Void (5)", "types": ["advanced","berries"]},
+		{"name": "10 Advanced Berries", "types": ["advanced","berries"]}
+	],
+	[
+		{"name": "Reach 'Petrichor' in Raspberry Roots", "types": ["heartside"]},
+		{"name": "3 Advanced Hearts", "types": ["advanced","hearts"]},
+		{"name": "All Berries in Undergrowth (5)", "types": ["berries","advanced"]},
+		{"name": "15 Hearts", "types": ["hearts"]}
+	],
+	[
+		{"name": "All Berries in Raindrops on Roses (4)", "types": ["berries"]},
+		{"name": "Complete Raspberry Roots", "types": ["heartside"]},
+		{"name": "40 Berries", "types": ["berries"]},
+		{"name": "10 Berries in 3 Lobbies", "types": ["berries","advanced"]},
+		{"name": "Reach 'Crest' in Mango Mesa", "types": ["heartside","advanced"]}
+	]
+]
