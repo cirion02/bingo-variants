@@ -1401,7 +1401,7 @@ let variant_list_data = [
         credit: "ilikerandom, named 'dementiago' by ad",
         description: "A variant of blackout in which each objective ticked hides adjacent objectives. Players must instantly tick an objective they believe to have: if that objective is not something they have, they must untick the objective and wait in place for 1 minute. Standard blackout rules apply.",
         notes: "No such plugin currently exists.",
-        color:"Red",
+        color:"Orange",
         tags:["blackout", "cursed", "unplayable"],
         min_teams:1,
         max_teams:null,
@@ -1458,7 +1458,7 @@ let variant_list_data = [
         credit: "FlyingLudicolo",
         description: "A variant of lockout in which every objective is altered so that the objective has to be completed in a specific way or changed to be a more difficult version.",
         notes: "No such generator exists.",
-        color:"Red",
+        color:"Orange",
         tags:["lockout", "custom-generator", "cursed", "difficult", "unplayable"],
         min_teams:2,
         max_teams:2,
@@ -1515,7 +1515,7 @@ let variant_list_data = [
         credit: "rhelmot",
         description: "A variant of lockout in which every character is replaced with *. Every n seconds, players may submit one character for an individual square to reveal those characters. If a player ticks an objective they don't have, the tick goes to the opponent.",
         notes: "No such plugin currently exists. Creator suggests combining this gamemode with bingobuthardtoread.",
-        color:"Red",
+        color:"Orange",
         external_links:[{
             name:"Generator",
             file:"download-files/bingobuthardtoread.json"
@@ -1542,8 +1542,8 @@ let variant_list_data = [
         credit: "creep",
         description: "Two players play on five boards forming a plus sign (+). There are two phases to this game: the Control phase and the Capture phase. During the Control phase, the outer boards are played with Line Control (Row Control for left and right boards, Column Control for the top and bottom boards). For each line controlled, the adjacent square on the central board becomes \"protected\" (opponent cannot capture). Players can choose to complete and tick these protected squares at any moment. The Capture phase begins when all outer boards have no more free rows. All remaining objectives on the central board become unprotected and is played as a modified cheat mode lockout game from a fresh save file. First to tick 13 objectives on the central board wins.",
         notes: "If a corner square is doubly protected by the same player, the tick goes to the player without having to complete the objective. If protected by both, then the square can be ticked by either player. Extremely difficult to manage 5 boards concurrently.",
-        color:"Red",
-        tags:["lockout", "cursed", "difficult", "unplayable"],
+        color:"Orange",
+        tags:["lockout", "cursed", "difficult"],
         min_teams:2,
         max_teams:2,
         min_players_per_team:1,
@@ -1564,7 +1564,7 @@ let variant_list_data = [
         name: "Strawberry Jam Bingo",
         credit: "Tntgobang, maintained by Tntgobang, Nene22, creep, Cookie",
         description: "A variant of lockout bingo played on the 2023 Strawberry Jam mod.",
-        notes: "There is a known bug with the custom progression mod that says the mod assembly failed to load. You can safely ignore this error. Do not use BingoUI with Strawberry Jam Bingo.",
+        notes: "There is a known bug with the custom progression mod that says the mod assembly failed to load. You can safely ignore this error.",
         color:"Green",
         external_links:[
             {
