@@ -28,7 +28,6 @@
 		{"name": "5 Berries", "types": ["berries"]}
 	],
 	[
-		{"name": "Pet Troposphere Cat", "types": ["cat"]},
 		{"name": "Pet Strawberry Orchard Cat", "types": ["cat"]},
 		{"name": "Complete Troposphere", "types": []},
 		{"name": "Complete Switchtube Vista", "types": []},
@@ -58,7 +57,6 @@
 	[
 		{"name": "Interract Wtih All Benches in Beginner Lobby", "types": []},
 		{"name": "Pet Crab Lobby Cat", "types": ["cat"]},
-		{"name": "Pet Frosted Fragments Cat", "types": ["cat"]},
 		{"name": "5 Hearts", "types": ["hearts"]},
 		{"name": "Complete Seeing is Believing", "types": []},
 		{"name": "Complete Soap", "types": []},
@@ -106,6 +104,7 @@
 		{"name": "5 Intermediate Berries", "types": ["berries"]}
 	],
 	[
+		{"name": "Pet Frosted Fragments Cat", "types": ["cat"]},
 		{"name": "Use all 5 keys in Honeyzip Inc.", "types": []},
 		{"name": "Reach 'Tranquility' in Blueberry Bay", "types": ["heartside"]},
 		{"name": "Complete Honeyzip Inc.", "types": []},
@@ -149,13 +148,13 @@
 		{"name": "Complete Square the Circle", "types": []},
 		{"name": "Complete Temple of a Thousand Skies", "types": []},
 		{"name": "Complete Golden Dawn", "types": ["advanced"]},
-		{"name": "All Berries in EAT GIRL (2)", "types": ["berries"]},
-		{"name": "All Berries in In Filtration (5)", "types": ["berries"]},
 		{"name": "All Berries in Construction Conundrum (2)", "types": ["berries"]},
 		{"name": "All Berries in Temple of a Thousand Skies (4)", "types": ["berries"]},
 		{"name": "Royal Pizza room in Starlight Station", "types": ["advanced"]}
 	],
 	[
+		{"name": "All Berries in EAT GIRL (2)", "types": ["berries"]},
+		{"name": "All Berries in In Filtration (5)", "types": ["berries"]},
 		{"name": "Complete Starry Ruins", "types": ["advanced"]},
 		{"name": "Complete Jellyfish Sanctum", "types": ["advanced"]},
 		{"name": "Complete Forest Rush", "types": ["advanced"]},
@@ -227,13 +226,13 @@
 		{"name": "5 Berries in 3 Lobbies", "types": ["berries"]}
 	],
 	[
-		{"name": "Talk to Theo in BVD ( After final room )", "types": ["advanced"]},
+		{"name": "Talk to Theo in BVD (After final room)", "types": ["advanced"]},
 		{"name": "Pet Mango Mesa First Cat", "types": ["heartside","advanced","cat"]},
 		{"name": "Complete Call of the Void", "types": ["advanced"]},
-		{"name": "All Berries in Call of the Void (5)", "types": ["advanced","berries"]},
 		{"name": "10 Advanced Berries", "types": ["advanced","berries"]}
 	],
 	[
+		{"name": "All Berries in Call of the Void (5)", "types": ["advanced","berries"]},
 		{"name": "Reach 'Petrichor' in Raspberry Roots", "types": ["heartside"]},
 		{"name": "3 Advanced Hearts", "types": ["advanced","hearts"]},
 		{"name": "All Berries in Undergrowth (5)", "types": ["berries","advanced"]},
