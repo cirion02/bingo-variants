@@ -1130,7 +1130,7 @@ let variant_list_data = [
     {
         name: "Wordle Bingo",
         credit: "Reed",
-        description: "A combination of Wordle and bingo for two-player competitive play",
+        description: "A combination of Wordle and bingo for two-player competitive play.",
         color:"Orange",
         external_links:[{
             name:"Detailed Ruleset",
