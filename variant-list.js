@@ -1129,8 +1129,8 @@ let variant_list_data = [
     },
     {
         name: "Wordle Bingo",
-        credit: "Reed",
-        description: "A combination of Wordle and bingo for two-player competitive play.",
+        credit: "Reed, isaac",
+        description: "A combination of Wordle and bingo for two-player competitive play",
         color:"Orange",
         external_links:[{
             name:"Detailed Ruleset",
@@ -1234,7 +1234,7 @@ let variant_list_data = [
         credit: "Cirion, Generator by creep",
         description: "A bingo board with 25 ILs (or checkpoints) on it is created. 2 teams fight to get one or two complete lines on the board. To tick off a square for the first time, a player must beat that IL, and note their time for completing it. Any player on either team can then steal that square by completing the IL in a faster time, also lowering the time needed to steal that square again.",
         notes: "Use the Randomized setting to create a board, not the srlv5 setting. There is no way of keeping track of IL times without recording the time externally.",
-        color:"Orange",
+        color:"Green",
         external_links: [{
             name:"Generator + Additional Ruleset",
             link:"https://docs.google.com/spreadsheets/d/1y8Pxg9ARSgLRuE25jj2yRWSSveKdVk4mATQf0MPkbBw/edit?usp=sharing"
@@ -1641,5 +1641,49 @@ let variant_list_data = [
         max_teams:2,
         min_players_per_team:1,
         max_players_per_team:null
-    }
+    },
+    {
+        name: "Kt1ngo",
+        credit: "Tomycarmo3",
+        description: "A variant of ktango where the router and the exec are the same person, and there's no other team. First to 13 objectives wins.",
+        color:"Red",
+        tags:["lockout", "ktango"],
+        min_teams:1,
+        max_teams:1,
+        min_players_per_team:1,
+        max_players_per_team:1
+    },
+        {
+        name: "Sinktango",
+        credit: "Tomycarmo3",
+        description: "A mashup of sinkout and ktango. Each team generates a (solo) lockout board and secretly chooses 3 ship locations (1 1x3, 2, 1x2) on the board. Then each team plays on the other team's board. First team to locate and complete all of the hidden objectives on the board they're playing wins. See also Sinkout, Ktango.",
+        color:"Green",
+        tags:["blackout", "ktango"],
+        min_teams:2,
+        max_teams:2,
+        min_players_per_team:2,
+        max_players_per_team:2
+    },
+    {
+        name: "Wordle Bingo (1-player)",
+        credit: "isaac (not the goated one)",
+        description: "A wordle variant where you have to guess lockout objectives.",
+        notes:"Played with an external tool. Optionally you must complete the objectives on a save file before making each line of guesses. Can be played ktango or on custom progression, Banana Split is recommended.",
+        color:"Green",
+        external_links:[
+            {
+                name: "External Tool",
+                link: "https://kipahlord13.itch.io/celeste-wordle-bingo?secret=rG5vctHgLkSqyiKmltGXPiwCo54"
+            },
+            {
+                name: "Ruleset",
+                link: "https://discord.com/channels/529677942393929749/689529939975864453/1229255407365525534"
+            },
+        ],
+        tags:["ktango", "blackout"],
+        min_teams:1,
+        max_teams:null,
+        min_players_per_team:1,
+        max_players_per_team:null
+    },
 ]
