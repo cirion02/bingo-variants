@@ -1686,4 +1686,15 @@ let variant_list_data = [
         min_players_per_team:1,
         max_players_per_team:null
     },
+    {
+        name: "themostcursedbingoadcouldcomeupwith.pdf",
+        credit: "ad",
+        description: "A game of lockout bingo where there are 4 players and 2 boards. One board uses the Oldsitego generator and one is a 6x6 Longo board. Fog is on for both boards. Before the game, each player secretly places 3 ships (1x3, 1x2, 1x2) on the board and chooses one VIP square. The Oldsitego board is played on cheat mode, while the Longo board is played on Rocky Road. Each player routes the next in a circle (A -> B -> C -> D -> A) with the following restrictions: A is doing k単語 (may only speak a language B doesn't speak), B is playing taboo ktango (may not use words listed on the board), C is communicating by drawing pictures. Player D routes normally. Player B is playing with Bingo but Canon rules (if they have more deaths than 1-ups they have to delete the file) and Player D is playing blindfolded (but may look at pictures from C and the board they're routing for A). All players are unmuted and screensharing in a VC and on Celestenet (stream sniping and Celestenet interactions are allowed). Players A & B and C & D each swap controls. Players have 2 dashes always, but must wait 2 minutes between ticks. A player can win in any of the following ways: Complete 13 objectives, complete 4 objectives in a square (postage stamp), complete their opponent's VIP objective, sink one of their opponents ships, or reveal the entire board (blackout fog reveal rules). Cheating is allowed",
+        tags:["ktango", "lockout"],
+        color:"Red",
+        min_teams:2,
+        max_teams:2,
+        min_players_per_team:2,
+        max_players_per_team:2
+    }
 ]
