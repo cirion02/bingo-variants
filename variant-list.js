@@ -1289,10 +1289,17 @@ let variant_list_data = [
         credit: "Cirion",
         description: "An even longer version of longo, with objectives that are only theoretically possible to complete.",
         color:"Red",
-        external_links:[{
-            name:"Objective List",
-            file:"download-files/longergo.png",
-        }],
+        notes:"The new generator was made without the intension of being fun, so be warned, it probably won't be fun.",
+        external_links:[
+            {
+                name:"Original Objective List",
+                file:"download-files/longergo.png",
+            },
+            {
+                name:"New Generator",
+                file:"download-files/Suffer.json",
+            },
+        ],
         tags:["lockout", "long", "difficult", "cursed", "unplayable", "custom-generator"],
         min_teams:2,
         max_teams:2,
