@@ -1644,7 +1644,7 @@ let variant_list_data = [
     },
     {
         name: "Wordle Bingo (new)",
-        credit: "isaac (not the goated one)",
+        credit: "isaac",
         description: "A wordle variant where you have to guess lockout objectives.",
         notes:"Played with an external tool. Optionally you must complete the objectives on a save file before making each line of guesses. Can be played ktango or on custom progression, Banana Split is recommended.",
         color:"Green",
