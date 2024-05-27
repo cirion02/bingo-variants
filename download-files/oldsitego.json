@@ -1,3 +1,8 @@
+isaac
+kipahlord13
+❤️‍🔥hell is where the heart is
+
+ad — Yesterday at 12:40 AM
 [
   [
     {
@@ -67,6 +72,119 @@
     {
       "name": "Interact with 4 different lanterns in 1000M in 7B",
       "types": []
+    },
+    {
+      "name": "Survive 20 secounds in 2B cassette room without touching the heart or the ground/walls",
+      "types": []
+    },
+    {
+      "name": "Survive 30 secounds in 2A cassette room without touching the heart or the ground/walls",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Read the 2A poem",
+      "types": []
+    },
+    {
+      "name": "Talk to Theo in Awake",
+      "types": []
+    },
+    {
+      "name": "Jumpless Intervention",
+      "types": []
+    },
+    {
+      "name": "Get crushed by a dreamblock",
+      "types": []
+    },
+    {
+      "name": "Interact with 17 different lanterns in 2A",
+      "types": []
+    },
+... (488 lines left)
+Collapse
+oldsitegoV6.txt
+11 KB
+﻿
+[
+  [
+    {
+      "name": "Enter 2A",
+      "types": []
+    },
+    {
+      "name": "Enter 2B",
+      "types": []
+    },
+    {
+      "name": "Enter 2C",
+      "types": []
+    },
+    {
+      "name": "(Try to) read the memorial in 2A Start",
+      "types": []
+    },
+    {
+      "name": "Go all the way Left in 2A Start",
+      "types": []
+    },
+    {
+      "name": "Break a wall in 2A",
+      "types": []
+    },
+    {
+      "name": "Read the memorial in Awake",
+      "types": []
+    },
+    {
+      "name": "Go all the way right in 2A Start",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Get a 1-up in 2A",
+      "types": []
+    },
+    {
+      "name": "Get a two-up in 2A",
+      "types": []
+    },
+    {
+      "name": "Get a three-up in 2A",
+      "types": []
+    },
+    {
+      "name": "Get a 1-up using only Intervention berries",
+      "types": []
+    }
+  ],
+  [
+    {
+      "name": "Get 10 berries in 2A",
+      "types": []
+    },
+    {
+      "name": "Get 5 berries in 2A",
+      "types": []
+    },
+    {
+      "name": "Get 15 berries in 2A",
+      "types": []
+    },
+    {
+      "name": "Interact with 4 different lanterns in 1000M in 7B",
+      "types": []
+    },
+    {
+      "name": "Survive 20 secounds in 2B cassette room without touching the heart or the ground/walls",
+      "types": []
+    },
+    {
+      "name": "Survive 30 secounds in 2A cassette room without touching the heart or the ground/walls",
+      "types": []
     }
   ],
   [
@@ -135,7 +253,7 @@
       "types": []
     },
     {
-      "name": "Get a sub 2 minute 2B",
+      "name": "Get a 2:30 2B",
       "types": []
     }
   ],
@@ -578,3 +696,5 @@
     }
   ]
 ]
+oldsitegoV6.txt
+11 KB
