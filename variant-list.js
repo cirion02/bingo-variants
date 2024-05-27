@@ -1250,7 +1250,7 @@ let variant_list_data = [
         credit: "Dragon, Cookie",
         description: "A variant of ktango in which the player on each team must be blindfolded and guided through the game by the router. As the game would last for much longer than a usual bingo game would, a shorter bingo generator was made that uses Cheat Mode.",
         notes: "Use the Randomized setting to generate the board",
-        color:"Orange",
+        color:"Green",
         external_links:[{
             name:"Generator",
             file:"download-files/blindfolded_ktango.json",
@@ -1316,7 +1316,7 @@ let variant_list_data = [
         credit: "Random Name",
         description: "A variant of symmetric ktango. There are 2 teams of 3 players. Each player on each team routes each other player on their team. So there are 6 games of bingo being played simultaneously. The first team to 75 objectives wins.",
         notes: "Due to the immense skill required to route two bingo boards, communicate with two people, and execute one's own bingo board, all while ticking objectives, and due to the fact that all 6 players must be willing to do so, it is the opinion of this author that while this variant is not physically unplayable, it is practically unplayable.",
-        color:"Red",
+        color:"Green",
         tags:["lockout", "unplayable", "cursed", "difficult"],
         min_teams:2,
         max_teams:2,
@@ -1469,7 +1469,7 @@ let variant_list_data = [
         name: "Bingo but it's actually bingo",
         credit: "ArrowBounce",
         description: "Each player (spectator) generates a bingo board during a livestreamed event. Players (spectator) tick objectives when a player (on stream) completes an objective on the player's (spectator) board. First to reach a pre-determined goal (e.g. 1 line, 3 line, blackout) wins.",
-        color:"Red",
+        color:"Orange",
         tags:["blackout", "cursed"],
         min_teams:1,
         max_teams:null,
@@ -1643,7 +1643,7 @@ let variant_list_data = [
         max_players_per_team:null
     },
     {
-        name: "Wordle Bingo (1-player)",
+        name: "Wordle Bingo (new)",
         credit: "isaac (not the goated one)",
         description: "A wordle variant where you have to guess lockout objectives.",
         notes:"Played with an external tool. Optionally you must complete the objectives on a save file before making each line of guesses. Can be played ktango or on custom progression, Banana Split is recommended.",
