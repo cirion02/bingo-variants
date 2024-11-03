@@ -1476,7 +1476,7 @@ let variant_list_data = [
         name: "Bingo but it's actually bingo",
         credit: "ArrowBounce",
         description: "Each player (spectator) generates a bingo board during a livestreamed event. Players (spectator) tick objectives when a player (on stream) completes an objective on the player's (spectator) board. First to reach a pre-determined goal (e.g. 1 line, 3 line, blackout) wins.",
-        color:"Orange",
+        color:"Green",
         tags:["blackout", "cursed"],
         min_teams:1,
         max_teams:null,
@@ -1670,5 +1670,48 @@ let variant_list_data = [
         max_teams:null,
         min_players_per_team:1,
         max_players_per_team:null
+    },
+    {
+        name: "Quaternion Ktango",
+        credit: "isaac",
+        description: "An 8-player ktango variant where players are split into two teams, positive and negative, and play a total of 12 or 16 concurrent ktango games. Routers and execs of the games are chosen according to the rules of quaternion multiplication.",
+        color:"Green",
+        external_links:[
+            {
+                name: "Ruleset",
+                link: "https://discord.com/channels/529677942393929749/689529939975864453/1271254128332640336"
+            },
+            {
+                name: "Quaternion reference",
+                link: "https://en.wikipedia.org/wiki/Quaternion"
+            }
+        ],
+        tags:["ktanog", "lockout"],
+        min_teams:2,
+        max_teams:2,
+        min_players_per_team:4,
+        max_players_per_team:4
+    },
+    {
+        name: "Alterego",
+        credit: "tish",
+        description: "A 'parallel-universe' version of the standard lockout generator with fully new objectives, but aiming for similar difficulty. B-side objectives such as 2b and 4b are somewhat emphasised.",
+        color: "Green",
+        tags: ["blackout", "lockout", "custom-generator", "difficult"],
+        min_teams: 1,
+        max_teams: null,
+        min_players_per_team: 1,
+        max_players_per_team: null,
+    },
+    {
+        name: "Soul Link Bingo",
+        credit: "bulletinfi",
+        description: "Two players play blackout, each on a separate boards. When one player ticks an objective, the corresponding location is ticked on the other board as well. Play until 25 objectives are ticked on both boards",
+        color: "Green",
+        tags: ["blackout"],
+        min_teams: 1,
+        max_teams: null,
+        min_players_per_team: 2,
+        max_players_per_team: null,
     }
 ]
