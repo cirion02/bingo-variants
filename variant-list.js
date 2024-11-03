@@ -1697,6 +1697,12 @@ let variant_list_data = [
         credit: "tish",
         description: "A 'parallel-universe' version of the standard lockout generator with fully new objectives, but aiming for similar difficulty. B-side objectives such as 2b and 4b are somewhat emphasised.",
         color: "Green",
+        external_links:[
+            {
+                name: "Generator",
+                file: "download-files/alterego.json"
+            }
+        ],
         tags: ["blackout", "lockout", "custom-generator", "difficult"],
         min_teams: 1,
         max_teams: null,
