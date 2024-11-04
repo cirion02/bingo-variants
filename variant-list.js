@@ -1686,7 +1686,7 @@ let variant_list_data = [
                 link: "https://en.wikipedia.org/wiki/Quaternion"
             }
         ],
-        tags:["ktanog", "lockout"],
+        tags:["ktango", "lockout"],
         min_teams:2,
         max_teams:2,
         min_players_per_team:4,
