@@ -857,6 +857,10 @@ let variant_list_data = [
         description: "A variant of Any% in which a board of 25 bingo objectives containing things people do in Any% is revealed, and players must complete an Any% run without doing as few of these objectives as possible.",
         notes: "This has supposedly been played, but I have no clue where the generator is.",
         color:"Green",
+        external_links:[{
+            name:"Generator",
+            file:"download-files/bingolf.json",
+        }],
         tags:["lockout", "custom-generator", "unplayable"],
         min_teams:2,
         max_teams:2,
@@ -1674,7 +1678,7 @@ let variant_list_data = [
     {
         name: "Quaternion Ktango",
         credit: "isaac",
-        description: "An 8-player ktango variant where players are split into two teams, positive and negative, and play a total of 12 or 16 concurrent ktango games. Routers and execs of the games are chosen according to the rules of quaternion multiplication.",
+        description: "An 8-player ktango variant where players are split into two teams, positive and negative, and play a total of 12 or 16 concurrent ktango games. Routers and execs of the games are chosen according to the rules of quaternion multiplication. Similar to Kt3-by-2ngo, but with 4 players on each team and router/exec pairs sometimes go across teams. Each player routes 3 other players, and is routed by 3 other players, while optionally also playing a lockout game. The team with more router victories across all games wins.",
         color:"Green",
         external_links:[
             {
