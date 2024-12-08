@@ -47,7 +47,7 @@
       "types": []
     },
     {
-      "name": "Get a 1-up using only Intervention berries",
+      "name": "Collect a 1-up in Intervention",
       "types": []
     }
   ],
@@ -122,6 +122,10 @@
     },
     {
       "name": "ARB 2A",
+      "types": []
+    },
+    {
+      "name": "Beat 2A with Badeline Boss",
       "types": []
     }
   ],
@@ -251,7 +255,7 @@
       "types": []
     },
     {
-      "name": "2C 1 dream jump",
+      "name": "2C with 5 dream jumps",
       "types": []
     },
     {
@@ -265,6 +269,14 @@
     {
       "name": "2B Combination Lock room 3 reach end and return",
       "types": []
+    },
+    {
+      "name": "2B with 6 dream jumps",
+      "types": []
+    },
+    {
+      "name": "2A with 0 dream jumps",
+      "types": []
     }
   ],
   [
@@ -273,19 +285,19 @@
       "types": []
     },
     {
-      "name": "Invisble 2A",
+      "name": "Invisible 2A",
       "types": []
     },
     {
-      "name": "Invisble 2A Start",
+      "name": "Invisible 2A Start",
       "types": []
     },
     {
-      "name": "Invisble Intervention",
+      "name": "Invisible Intervention",
       "types": []
     },
     {
-      "name": "Invisble Awake",
+      "name": "Invisible Awake",
       "types": []
     },
     {
@@ -345,6 +357,10 @@
     {
       "name": "Reach Old site in PICO-8",
       "types": []
+    },
+    {
+      "name": "2 Winged berries in Old Site",
+      "types": []
     }
   ],
   [
@@ -355,6 +371,10 @@
     {
       "name": "Dashless Awake",
       "types": []
+    },
+    {
+      "name": "Do 20 screen transitions without touching the ground in 2A",
+      "types": []
     }
   ],
   [
@@ -364,6 +384,10 @@
     },
     {
       "name": "Exhaust all Theo's dialogue in Awake",
+      "types": []
+    },
+    {
+      "name": "Complete 2B with Snowballs Everywhere",
       "types": []
     },
     {
@@ -387,6 +411,14 @@
     {
       "name": "All berries in 2A Start (9)",
       "types": []
+    },
+    {
+      "name": "Complete 2A with 5 Seekers",
+      "types": []
+    },
+    {
+      "name": "See a berry with the binocular in 2A",
+      "types": []
     }
   ],
   [
@@ -395,7 +427,7 @@
       "types": []
     },
     {
-      "name": "Complete 2B with zero gravity",
+      "name": "Complete 2B start with zero gravity",
       "types": []
     },
     {
@@ -409,11 +441,11 @@
   ],
   [
     {
-      "name": "Complete 2A with Superdash",
+      "name": "Complete Awake with your eyes closed",
       "types": []
     },
     {
-      "name": "Complete 2B with Superdash",
+      "name": "Die with a berry trail of 6 in 2A",
       "types": []
     },
     {
@@ -469,6 +501,10 @@
     {
       "name": "Complete Dream Altar with dash assist",
       "types": []
+    },
+    {
+      "name": "Activate the infinite heart sound glitch in 2A",
+      "types": []
     }
   ],
   [
@@ -485,15 +521,15 @@
       "types": []
     },
     {
-      "name": "Grabless 1000M",
+      "name": "Grabless 1000M in 7A",
+      "types": []
+    },
+    {
+      "name": "Grabless 1000M in 7B",
       "types": []
     }
   ],
   [
-    {
-      "name": "Complete 2C with Superdash",
-      "types": []
-    },
     {
       "name": "2C low friction",
       "types": []
