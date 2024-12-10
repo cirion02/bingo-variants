@@ -1,0 +1,855 @@
+[
+    [
+        {
+            "name": "Prologue With Minimum Jumps (4)",
+            "type": [
+                "task"
+            ]
+        },
+        {
+            "name": "Old Site Berry Sampler (3)",
+            "type": [
+                "amount_berries"
+            ]
+        },
+        {
+            "name": "2 Special Berries in 2A",
+            "type": [
+                "special_berries"
+            ]
+        },
+        {
+            "name": "Backtrack to Final Crossing Berry after Unlocking Chasm",
+            "type": [
+                "berries",
+                "etselec"
+            ]
+        },
+        {
+            "name": "Break all Breakable Blocks in 1A (4)",
+            "type": [
+                "task"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Old Site Blue Heart while Dream Blocks Activated",
+            "type": [
+                "blue_heart"
+            ]
+        },
+        {
+            "name": "See Granny\u2019s Bird in 2 Chapters",
+            "type": [
+                "birds"
+            ]
+        },
+        {
+            "name": "Get 2 1-Ups",
+            "type": [
+                "1up"
+            ]
+        },
+        {
+            "name": "Collect a 1-Up in Intervention",
+            "type": [
+                "1up"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Poem and Theo in Awake",
+            "type": [
+                "task",
+                "cutscene"
+            ]
+        },
+        {
+            "name": "All Collectibles 2A Start (11)",
+            "type": [
+                "checkpoint_fullclear"
+            ]
+        },
+        {
+            "name": "Grabless 1-Up",
+            "type": [
+                "1up",
+                "grabless"
+            ]
+        },
+        {
+            "name": "Reach Contraption (1B Checkpoint)",
+            "type": [
+                "b-side"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Grabless Combination Lock (2B)",
+            "type": [
+                "b-side",
+                "grabless"
+            ]
+        },
+        {
+            "name": "Enter PICO-8 in 3A",
+            "type": [
+                "pico-8"
+            ]
+        },
+        {
+            "name": "2 Special Berries in 3 Chapters",
+            "type": [
+                "special_berries"
+            ]
+        },
+        {
+            "name": "All Berries in 1 Chapter",
+            "type": [
+                "amount_berries"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "6 Berries in 4 Chapters",
+            "type": [
+                "x_berries_in_x"
+            ]
+        },
+        {
+            "name": "Grabless Dream Altar (2B)",
+            "type": [
+                "b-side",
+                "grabless"
+            ]
+        },
+        {
+            "name": "6 Berries in PICO-8",
+            "type": [
+                "pico-8"
+            ]
+        },
+        {
+            "name": "3 Winged Berries in PICO-8",
+            "type": [
+                "pico-8"
+            ]
+        },
+        {
+            "name": "Be Crushed By 4 Different Traffic Blocks in 1B",
+            "type": [
+                "task",
+                "b-side"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "2 Special Berries in 4A",
+            "type": [
+                "special_berries",
+                "progress",
+                "midgame"
+            ]
+        },
+        {
+            "name": "2 Blue Hearts and 1 Red Heart",
+            "type": [
+                "amount_hearts"
+            ]
+        },
+        {
+            "name": "5 Special Berries",
+            "type": [
+                "special_berries",
+                "progress"
+            ]
+        },
+        {
+            "name": "Find Birds while Inside Resort Building",
+            "type": [
+                "birds",
+                "3a"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "1 Heart in 4 Chapter Numbers",
+            "type": [
+                "y_hearts_in_y"
+            ]
+        },
+        {
+            "name": "Read Both Letters in 3A",
+            "type": [
+                "task"
+            ]
+        },
+        {
+            "name": "See Little Birds in 4 Rooms",
+            "type": [
+                "birds",
+                "progress"
+            ]
+        },
+        {
+            "name": "Blue Hearts in 3 Consecutive Chapters",
+            "type": [
+                "amount_hearts"
+            ]
+        },
+        {
+            "name": "Close 1 pathway in Shrine",
+            "type": [
+                "task"
+            ]
+        },
+        {
+            "name": "Close 3 pathways in Shrine",
+            "type": [
+                "task"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Huge Mess: Chests Books Towels Books",
+            "type": []
+        },
+        {
+            "name": "Enter 3 Rooms With Cassette Blocks",
+            "type": [
+                "b-side",
+                "cassette"
+            ]
+        },
+        {
+            "name": "Backtrack to Final Cliff Face Berry after Gondola Room",
+            "type": [
+                "berries",
+                "etselec"
+            ]
+        },
+        {
+            "name": "Complete 2 A-Sides and 1 B-Side",
+            "type": [
+                "progress",
+                "amount_chapters"
+            ]
+        },
+        {
+            "name": "Use All Binoculars in 4A (3)",
+            "type": [
+                "binoculars"
+            ]
+        },
+        {
+            "name": "4 Binoculars in Chapter Number 4",
+            "type": [
+                "binoculars",
+                "b-side"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "6 Berries in 5 Chapters",
+            "type": [
+                "x_berries_in_x"
+            ]
+        },
+        {
+            "name": "All Collectibles in Elevator Shaft (5)",
+            "type": [
+                "checkpoint_fullclear"
+            ]
+        },
+        {
+            "name": "Enter 5 Rooms With Cassette Blocks",
+            "type": [
+                "b-side",
+                "cassette"
+            ]
+        },
+        {
+            "name": "Pass Through the Core Heart Gate",
+            "type": [
+                "core"
+            ]
+        },
+        {
+            "name": "4 Hearts of One Colour",
+            "type": [
+                "amount_hearts",
+                "blue_heart"
+            ]
+        },
+        {
+            "name": "12 Berries in 4A",
+            "type": [
+                "amount_berries"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Huge Mess: Books Chests Towels Books",
+            "type": []
+        },
+        {
+            "name": "Huge Mess: Books Towels Books Chests",
+            "type": []
+        },
+        {
+            "name": "1 Key in 5B",
+            "type": [
+                "keys",
+                "5b",
+                "midgame"
+            ]
+        },
+        {
+            "name": "2 Special Berries in 5A",
+            "type": [
+                "special_berries",
+                "progress"
+            ]
+        },
+        {
+            "name": "See Little Birds in 3 Rooms in 3A",
+            "type": [
+                "birds",
+                "3a"
+            ]
+        },
+        {
+            "name": "Reach Gusty Canyon (4B Checkpoint)",
+            "type": [
+                "b-side"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "12 Berries in PICO-8",
+            "type": [
+                "pico-8"
+            ]
+        },
+        {
+            "name": "Unravelling Without Madeline Activating Key Tokens",
+            "type": [
+                "5a"
+            ]
+        },
+        {
+            "name": "Unravelling Without Breaking Red Blocks",
+            "type": [
+                "5a"
+            ]
+        },
+        {
+            "name": "Collect a 1-Up in Shrine",
+            "type": [
+                "1up"
+            ]
+        },
+        {
+            "name": "2 Cutscenes in Search",
+            "type": [
+                "5a",
+                "cutscene"
+            ]
+        },
+        {
+            "name": "Collect a 1-Up in Depths",
+            "type": [
+                "1up"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Travel Into Mirrors with 3 Keys",
+            "type": [
+                "keys"
+            ]
+        },
+        {
+            "name": "Be Killed by Kevin",
+            "type": [
+                "task",
+                "progress",
+                "6a"
+            ]
+        },
+        {
+            "name": "See Little Birds in 6 Rooms",
+            "type": [
+                "birds"
+            ]
+        },
+        {
+            "name": "5 Keys and 5 Binoculars",
+            "type": [
+                "keys",
+                "binoculars"
+            ]
+        },
+        {
+            "name": "Be Killed by Kevin from all 4 directions",
+            "type": [
+                "task",
+                "progress",
+                "6a"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Stun 5 Oshiros and Jump on 5 Snowballs",
+            "type": [
+                "task"
+            ]
+        },
+        {
+            "name": "Kill The Same Seeker in 2 Ways",
+            "type": [
+                "5a",
+                "seeker"
+            ]
+        },
+        {
+            "name": "See Little Birds in 6A",
+            "type": [
+                "progress",
+                "birds",
+                "6a"
+            ]
+        },
+        {
+            "name": "4 Winged Berries in PICO-8",
+            "type": [
+                "pico-8"
+            ]
+        },
+        {
+            "name": "Lower Route in Power Source",
+            "type": [
+                "farewell"
+            ]
+        },
+        {
+            "name": "Destroy 10 Core Iceballs",
+            "type": [
+                "core"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Mirror Temple Berry Sampler (5)",
+            "type": [
+                "amount_berries"
+            ]
+        },
+        {
+            "name": "37 Berries",
+            "type": [
+                "amount_berries"
+            ]
+        },
+        {
+            "name": "Enter 8 Rooms With Cassette Blocks",
+            "type": [
+                "b-side",
+                "cassette",
+                "progress"
+            ]
+        },
+        {
+            "name": "Red Hearts in 2 Consecutive Chapters",
+            "type": [
+                "b-side"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "2 Special Berries in 4 Chapters",
+            "type": [
+                "special_berries"
+            ]
+        },
+        {
+            "name": "All Collectibles in Hollows (2)",
+            "type": [
+                "checkpoint_fullclear",
+                "progress"
+            ]
+        },
+        {
+            "name": "Enter Every Room in Hollows",
+            "type": [
+                "task"
+            ]
+        },
+        {
+            "name": "Kill a Seeker in 2 Chapters",
+            "type": [
+                "seeker",
+                "5a",
+                "5b"
+            ]
+        },
+        {
+            "name": "Grabless Eye Of The Storm",
+            "type": [
+                "grabless",
+                "4b"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "All Collectibles in Depths (13)",
+            "type": [
+                "checkpoint_fullclear"
+            ]
+        },
+        {
+            "name": "Stun 5 Oshiros and 5 Seeker Stuns",
+            "type": [
+                "task",
+                "seeker"
+            ]
+        },
+        {
+            "name": "Complete Search without Search Skip",
+            "type": [
+                "keys",
+                "5a"
+            ]
+        },
+        {
+            "name": "Stun Seekers 10 Times and Kill A Seeker",
+            "type": [
+                "seeker",
+                "task"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "All Berries in PICO-8",
+            "type": [
+                "pico-8"
+            ]
+        },
+        {
+            "name": "2 Special Berries in 5 Chapters",
+            "type": [
+                "special_berries"
+            ]
+        },
+        {
+            "name": "Complete 3 A-Sides and 1 B-Side",
+            "type": [
+                "progress",
+                "amount_chapters"
+            ]
+        },
+        {
+            "name": "1 Key and 1 Binocular in 3 Chapters",
+            "type": [
+                "keys",
+                "binoculars"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "12 Berries in 3 Chapters",
+            "type": [
+                "x_berries_in_x"
+            ]
+        },
+        {
+            "name": "1 Blue Heart and 3 Red Hearts",
+            "type": [
+                "amount_hearts",
+                "b-side"
+            ]
+        },
+        {
+            "name": "Complete 5 Chapters",
+            "type": [
+                "amount_chapters"
+            ]
+        },
+        {
+            "name": "See Little Birds in 7 Rooms",
+            "type": [
+                "birds"
+            ]
+        },
+        {
+            "name": "All Berries in 3 Chapters",
+            "type": [
+                "amount_berries",
+                "big_berries"
+            ]
+        },
+        {
+            "name": "1 Heart in 5 Chapter Numbers",
+            "type": [
+                "y_hearts_in_y"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "2 Hearts in 3 Chapter Numbers",
+            "type": [
+                "y_hearts_in_y"
+            ]
+        },
+        {
+            "name": "47 Berries",
+            "type": [
+                "amount_berries"
+            ]
+        },
+        {
+            "name": "All Binoculars in Start (6)",
+            "type": [
+                "binoculars",
+                "b-side"
+            ]
+        },
+        {
+            "name": "See Granny\u2019s Bird in 6 Chapters",
+            "type": [
+                "birds"
+            ]
+        },
+        {
+            "name": "All Collectibles in 0M (5)",
+            "type": [
+                "checkpoint_fullclear",
+                "progress"
+            ]
+        },
+        {
+            "name": "10 Oshiro Stuns in 2 Chapters",
+            "type": []
+        }
+    ],
+    [
+        {
+            "name": "All Berries in Start (50)",
+            "type": [
+                "amount_berries"
+            ]
+        },
+        {
+            "name": "2 Special Berries in 6 Chapters",
+            "type": [
+                "special_berries"
+            ]
+        },
+        {
+            "name": "Core Berry Sampler (3)",
+            "type": [
+                "amount_berries",
+                "core"
+            ]
+        },
+        {
+            "name": "Touch Badeline (not Orb) in 3 Chapters",
+            "type": [
+                "lategame",
+                "6a",
+                "6b"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "12 Berries in 4 Chapters",
+            "type": [
+                "x_berries_in_x"
+            ]
+        },
+        {
+            "name": "Use 4 Binoculars in The Summit",
+            "type": [
+                "binoculars"
+            ]
+        },
+        {
+            "name": "0M and 1000M Gems",
+            "type": [
+                "gems",
+                "progress"
+            ]
+        },
+        {
+            "name": "Red Hearts in 3 Consecutive Chapters",
+            "type": [
+                "b_side"
+            ]
+        },
+        {
+            "name": "All Collectibles in 1000M (7)",
+            "type": [
+                "checkpoint_fullclear",
+                "lategame"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "1 Heart in 6 Chapter Numbers",
+            "type": [
+                "y_hearts_in_y"
+            ]
+        },
+        {
+            "name": "70 Berries",
+            "type": [
+                "amount_berries"
+            ]
+        },
+        {
+            "name": "500M and 2000M Gems",
+            "type": [
+                "gems",
+                "lategame"
+            ]
+        },
+        {
+            "name": "3 Special Berries in 7A",
+            "type": [
+                "special_berries"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Bounce on 5 Snowballs in 2 Chapters",
+            "type": [
+                "task"
+            ]
+        },
+        {
+            "name": "All Berries in 4 Chapters",
+            "type": [
+                "amount_berries",
+                "big_berries"
+            ]
+        },
+        {
+            "name": "All Binoculars in 7A (8)",
+            "type": [
+                "lategame"
+            ]
+        },
+        {
+            "name": "Anti-clockwise Keys in Power Source",
+            "type": [
+                "farewell",
+                "keys"
+            ]
+        },
+        {
+            "name": "1500M and 2500M Gems",
+            "type": [
+                "gems",
+                "lategame"
+            ]
+        },
+        {
+            "name": "The Summit Berry Sampler (7)",
+            "type": [
+                "amount_berries"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "See Little Birds in 9 Rooms",
+            "type": [
+                "birds"
+            ]
+        },
+        {
+            "name": "2 Hearts in 4 Chapter Numbers",
+            "type": [
+                "y_hearts_in_y"
+            ]
+        },
+        {
+            "name": "1 Key and 1 Binocular in 4 Chapters",
+            "type": [
+                "keys",
+                "binoculars",
+                "lategame"
+            ]
+        },
+        {
+            "name": "All Collectibles in 2000M (9)",
+            "type": [
+                "checkpoint_fullclear",
+                "lategame"
+            ]
+        },
+        {
+            "name": "10 each: Oshiro Stuns, Snowball Bounces, Seeker Stuns",
+            "type": [
+                "task",
+                "lategame"
+            ]
+        },
+        {
+            "name": "3 Special Berries in 2 Chapters",
+            "type": [
+                "special_berries"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "10 Binoculars in Farewell",
+            "type": [
+                "farewell"
+            ]
+        },
+        {
+            "name": "Backtrack to Final Summit Berry after Flag 02",
+            "type": [
+                "lategame",
+                "etselec"
+            ]
+        },
+        {
+            "name": "10 Keys and 10 Binoculars",
+            "type": [
+                "keys",
+                "binoculars"
+            ]
+        },
+        {
+            "name": "12 Berries in 6 Chapters",
+            "type": [
+                "amount_berries",
+                "big_berries"
+            ]
+        }
+    ]
+]

@@ -1,0 +1,121 @@
+[[
+{ "name": "Complete a Chapter without dying with a berry in the A side (except Reflection)"},
+{ "name": "Skip the 4A end cutscene"},
+{ "name": "Skip a (non-optional) cutscene in 5A"},
+{ "name": "Skip The Summit Blue Heart"},
+{ "name": "Enter Presidential Suite"}
+
+], 
+
+[
+{ "name": "Grabless Variant disabled in Huge Mess"},
+{ "name": "Mess Order: Chests \u2193 Books \u2191 Towels \u2192"},
+{ "name": "Skip the Key in Elevator Shaft"}
+
+], 
+
+[
+{ "name": "Stun Oshiro"},
+{ "name": "Less than 9 Berries in 1A"},
+{ "name": "Die in Old Site"}
+
+], 
+
+
+[
+{ "name": "Dash in a room with a Winged Berry"},
+{ "name": "Less than 9 Berries in 2A"},
+{ "name": "Activate a Moving-Block in Shrine"}
+
+], 
+
+
+[
+{ "name": "Less than 9 Berries in 3A"},
+{ "name": "Use more than 4 Feathers in 6A Start"}
+
+], 
+
+
+[
+{ "name": "Grabless Variant disabled in Cliff Face"},
+{ "name": "Step on a Pink Cloud in 4A"},
+{ "name": "Activate more than 5 flags in 3000m"}
+
+], 
+
+
+[
+{ "name": "Grabless Variant disabled in Depths"},
+{ "name": "At least 1 Winged Berry"},
+{ "name": "Less than 9 Berries in 5A"}
+
+], 
+
+
+[
+{ "name": "Complete 2A without taking a Selfie"},
+{ "name": "Less than 9 Berries in 7A"}
+
+], 
+
+
+[
+{ "name": "Use a Dash Crystal in 2A"},
+{ "name": "Less than 4 Cassettes"}
+
+], 
+
+
+[
+{ "name": "Exactly 1 Key in Mirror Temple"},
+{ "name": "0 Hearts in Reflection"}
+
+], 
+
+
+[
+{ "name": "Use the bottom route in Hollows"},
+{ "name": "Die to Dust-Worms"},
+{ "name": "Grabless Variant disabled in 4A Start"}
+
+], 
+
+
+[
+{ "name": "Use the top route in Hollows"},
+{ "name": "Complete 6A"},
+{ "name": "Less than 9 Berries in 4A"}
+
+], 
+
+
+[
+{ "name": "Skip The Summit Cassette"},
+{ "name": "Less than 3 Hearts"},
+{ "name": "Less than 5 Hearts"}
+
+], 
+
+
+[
+{ "name": "At least 1 Blue Heart"},
+{ "name": "Die to a Snowball"},
+{ "name": "Use an Orb in 3000m"}
+
+], 
+
+
+[
+{ "name": "Collect 0 Berries in exactly 1 or more than 4 Chapters"},
+{ "name": "Grabless Variant disabled in Elevator Shaft"}
+
+], 
+
+
+[
+{ "name": "Grabless Variant disabled in 3A Start"},
+{ "name": "Skip the last berry in 4A"},
+{ "name": "Die at least 100 times"}
+
+]]
