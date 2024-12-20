@@ -13,9 +13,18 @@ function variantToElement(variant){
     credit.innerText = "Creator: " + variant.credit;
     div.appendChild(credit);
 
+    /*
+    if (variant.short_desc) {
+        let short_desc = document.createElement("div");
+        short_desc.className = "short_desc";
+        short_desc.innerText = variant.short_desc;
+        div.appendChild(short_desc);
+    }
+    */
+
     let description = document.createElement("div");
     description.className = "description";
-    description.innerText = "Description: " + variant.description;
+    description.innerHTML = "Description: " + variant.description;
     div.appendChild(description);
 
     if (variant.notes) {
@@ -57,7 +66,12 @@ function addAllVariants(){
     let temp = variant_list_data;
     temp.sort(orderVariants);
 
-    console.log(temp);
+    renderVariants(temp)
+}
+
+function addAllProgressions(){
+    let temp = progression_list_data;
+    temp.sort(orderVariants);
 
     renderVariants(temp)
 }

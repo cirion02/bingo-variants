@@ -104,3 +104,23 @@ h3 {
 
     text-align: center;
 }
+
+.short_desc{
+    font-style: italic;
+}
+
+.description-table {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+.description-table > tbody > tr > td{
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 3px;
+}
+
+.description {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
